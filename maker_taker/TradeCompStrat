@@ -1,0 +1,12 @@
+Part 4 (OPTIONAL): General Maker and Taker Strategy
+Assume now we have 100 players, and each submits both a Maker and a Taker.
+Each person’s Maker plays the game once against each other person’s Taker and vice versa (We are no longer playing against Greedy Taker).
+Each Maker and Taker’s score is the sum of the pnl against the 99 other players and the Makers and Takers are scored separately.
+What Maker and Taker would you submit and why? (Don’t spend too much time on this!
+The strategy for this game can go very deep and a solution that doesn’t require a lot of time to implement yet does reasonable things is good enough)
+-------------------------------
+I would probably as maker just use a simple binary search (ie 50 -> 75 -> 87.5) and keep sizing at a minimum to reduce my losses.
+The maker a serious advantage in this game so upping the sizing is negative EV.
+
+For the Maker I would lie (take lower EV option) 90% on the first round and take the higher EV round 2/3. That would make me unpredictable to most easily written makers and have fairly high EV.
+Given longer term, I might further investigate using CFR to discover GTO strat.

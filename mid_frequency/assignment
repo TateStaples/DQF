@@ -1,0 +1,46 @@
+Introductory Project for Mid-Frequency Trading Team
+
+Hello! Thank you for your interest in the Mid-Frequency Trading Team!
+In this team I want to develop predictive models for securities in the 1 minute to 1 hour range and develop infrastructure to trade on them live.
+I hope that with this introductory project I can give you an idea of what kind of work we need to do and whether you would like to spend more time on this.
+
+This is quite a large undertaking since we not only have to develop novel statistical models,
+but we also interact with exchange APIs to obtain information and send orders, develop a monetization strategy and figure out how we can effectively run this live.
+
+I feel the most feasible security to trade is crypto due to the availability of data from Binance, lower fees for crypto trading, and possibly lower efficiency of crypto markets compared to other securities.
+As to why I proposed this timescale, I find it unlikely that we can do sub-minute trading as we would need second resolution for both our training and live data.
+For longer timescales, I think that it is likely that there may be too much noise to effectively model.
+
+Currently, I am imagining that we build a good predictive model for cryptocurrency pairs, and we deploy a taking strategy.
+However, there are many other possibilities.
+Kevin has successfully deployed a making strategy for BTC and I could imagine there is a lot of predictive power if we focus on modelling the effects of certain events.
+I would be excited to explore other products or ideas as well.
+
+There are two parts to this introductory project.
+First, I want to give you some experience on analyzing price history data and coming up with trading ideas.
+Secondly, because we will have to work closely with APIs, I have included a simple exercise for you to interact with the Binance API.
+
+Logistics: Please send me your answers to these questions by 6th February Midnight. Please ask questions if you have any and I am very interested in your methodology for the first two parts especially!
+
+I encourage you to collaborate with anyone else who applied or any of your other friends who may be interested in working on this project. I hope to be very collaborative in this team! Just remember to list them out in your submission.
+
+HFT Stock Prediction Research Game
+This trading game is based on the first case at Traders@MIT 2022. I have provided a data set, backtesters and sample traders at https://github.com/jh-lor/MFT_Team. Please read the attached document Data-Science-2022-Case-Packet.pdf regarding the context of the dataset. Instead of the submission and data API provided in the competition, I have provided the in-sample training data (train_intro.csv) which contains 800 rows of data and have withheld the next 200 rows of out-of-sample test data. These 800 rows of data are sufficient to deduce effective trading strategies. I have also written a simulator that accepts a price history and a trader and simulates the trades and pnl that would have occurred.
+
+Part 1: Strategy Analysis
+What is your strategy? How much do you expect to make? Justify your answer by analyzing possible statistical relationships between the stocks, devising a model to predict price movements and use testing to validate that your model will likely hold in the out-of-sample data. (BONUS) A significant part of this trading game is establishing the value of getting non-delayed data. How much is this worth?
+
+Hint 1: Most likely, you want to analyze the returns (percent change in price) of the stocks rather than absolute price changes or price itself. Why?
+Hint 2: It is important to do elementary data analysis to understand what kind of relationships we want to capture in our model
+Hint 3: Simple models are often more effective than complicated models and easier to get right. We also do not have a lot of data for highly complex models
+
+
+Part 2: Code a Trader
+In the repository, I have written a backtester for your trader. Read through the implementation and write your own Trader class based on the strategy you devised. The base code of the game can be found in simulation.py, examples of Traders can be found in trader_class.py and a jupyter notebook for simulation can be found in backtester.ipynb.
+
+Important note! In this trading game, your positions are liquidated every time step, i.e. at every time step you realize the profit and loss from last round and start with zero positions. This is so that you do not have to worry about position management/trade prioritization and instead focus on a predictive model.
+
+Please include the code you wrote embedded in text for your submission and include a .py file. Please name your class <FirstName>Trader and your .py file should be named <FirstName>Trader.py. I will run your submission on the 200 rows of out-of-sample data.
+
+Part 3: Binance API
+We will likely work with the Binance API for both data pulling and potentially trading and hence we will need everyone to learn at least the basics of the Binance API. Using the Binance API, found here https://python-binance.readthedocs.io/en/latest/overview.html, write a script that queries the last trades made for BTCUSDT in the last 5 minutes and calculates the Volume-Weighted Average Price (VWAP). (BONUS) Use the web socket API to do the same thing real time. Starter code for the web socket is available websocket_api.py

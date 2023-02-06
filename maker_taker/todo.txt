@@ -1,0 +1,27 @@
+Part 1: Strategy Analysis for Greedy Taker
+Playing the game as a maker against the Greedy Taker, what are the advantages of each role?
+What do you think is the best possible strategy for the Maker?
+How much do you think the Maker profits or loses per game on average?
+
+Part 2: Code a Maker against Greedy Taker
+I have written up an implementation of the game here: https://github.com/jh-lor/trading_mock/.
+Read through the implementation and write your own Maker class.
+The base code of the game can be found in maker_taker_base.py, examples of Makers and Takers can be found in sample_traders.py and a jupyter notebook for simulation can be found in maker_taker.ipynb.
+
+Please include the code you wrote embedded in text for your submission and include a .py file.
+Please name your class <FirstName>Maker and your .py file should be named <FirstName>Maker.py.
+
+
+Part 3: Trading Competition Deployment
+Imagine we are organizing a trading competition with 100 players who could be here in person or remote.We play this game multiple times and collect submissions for Makers in-between rounds.
+We also want a way to give players information about their performance in previous games relative to other players, but some information is private.
+How would you implement a system that would help us run a competition successfully?
+If you don’t have much SWE experience like me, list what you would do to learn how to get started.
+
+
+Part 4 (OPTIONAL): General Maker and Taker Strategy
+Assume now we have 100 players, and each submits both a Maker and a Taker.
+Each person’s Maker plays the game once against each other person’s Taker and vice versa (We are no longer playing against Greedy Taker).
+Each Maker and Taker’s score is the sum of the pnl against the 99 other players and the Makers and Takers are scored separately.
+What Maker and Taker would you submit and why? (Don’t spend too much time on this!
+The strategy for this game can go very deep and a solution that doesn’t require a lot of time to implement yet does reasonable things is good enough)

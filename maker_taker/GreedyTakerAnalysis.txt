@@ -1,0 +1,16 @@
+Playing the game as a maker against the Greedy Taker, what are the advantages of each role?
+The taker has an advantage because he starts with the most information. The maker has the advantage of a ten wide profit window and the ability to learn where the true value of the case is.
+
+What do you think is the best possible strategy for the Maker?
+If the Maker knows that the taker is greedy, the maker should try to force a scenario where by the third round, they know a window that contains the true value. Then they max out sizing and win lots of money.
+An example of this strategy would be start with a 70-80 market (size 1). Depending on there bet, shift your market 10 in that direction (size 1).
+If the buy/sell changes then you know that they are inbetween your two markets, if they buy twice, you know its 90-100. In either of these scenarios, max out your sizing and make bank.
+If they sell twice, you don't know the range so just lower the market to like 25-30 (size 1) to minimize losses.
+
+
+How much do you think the Maker profits or loses per game on average?
+
+For values 65->100 you average 2.5 [mean dis from target] * 1000 [max size] - ~10[approximate average distance on prior guesses]
+For values under 65 you lose ~3 [num markets] * ~35 [guessed average miss]
+
+The gives a rough expectation estimate of $760 per round. Most rounds you will lose money, but when you do find their range you make a lot.

@@ -1,0 +1,8 @@
+Part 3: Trading Competition Deployment
+Imagine we are organizing a trading competition with 100 players who could be here in person or remote.We play this game multiple times and collect submissions for Makers in-between rounds.
+We also want a way to give players information about their performance in previous games relative to other players, but some information is private.
+How would you implement a system that would help us run a competition successfully?
+If you don’t have much SWE experience like me, list what you would do to learn how to get started.
+
+I would set it tournament style so each team starts with a given budget and you play until there is one bot remaining. Each round consists of each bot playing the others 100 times.
+After each round each team is given a different random sample of 1/2 the matches to analyze. They have 10-15 minutes to try any changes and repeat. Min market size can be raised to regulate game speed.
