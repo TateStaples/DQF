@@ -36,7 +36,8 @@ if __name__ == '__main__':
     total = 0
     miss_total = 0
     profits = list()
-    for i in range(101):
+    for i in range(0, 10000):
+        i/=100
         maker = TateMaker()
         # i = 80
         round_profit = 0
@@ -60,4 +61,4 @@ if __name__ == '__main__':
     plt.plot(profits)
     plt.show()
     print(miss_total/70/3)
-    print(total/101)
+    print(total/1000)
