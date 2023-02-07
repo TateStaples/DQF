@@ -3,22 +3,22 @@ Analyze the 800 time-steps of following 4 stocks and devise an algorithm to trad
 ### Stock1
 Linear, low noise fall
 
-![Img of Stock1 price in same data](/Users/22staples/PycharmProjects/DQF/mid_frequency/stock_imgs/Stock1.png "Stock1 valuation")
+![Img of Stock1 price in same data](/mid_frequency/stock_imgs/Stock1.png "Stock1 valuation")
 
 ### Stock2
 Slight trends, moderate noise
 
-![Img of Stock2 price in same data](/Users/22staples/PycharmProjects/DQF/mid_frequency/stock_imgs/Stock2.png "Stock2 valuation")
+![Img of Stock2 price in same data](/mid_frequency/stock_imgs/Stock2.png "Stock2 valuation")
 
 ### Stock3
 Low noise, flat
 
-![Img of Stock3 price in same data](/Users/22staples/PycharmProjects/DQF/mid_frequency/stock_imgs/Stock3.png "Stock3 valuation")
+![Img of Stock3 price in same data](/mid_frequency/stock_imgs/Stock3.png "Stock3 valuation")
 
 ### Stock4
 Few trends, highly volatile
 
-![Img of Stock4 price in same data](/Users/22staples/PycharmProjects/DQF/mid_frequency/stock_imgs/Stock4.png "Stock4 valuation")
+![Img of Stock4 price in same data](/mid_frequency/stock_imgs/Stock4.png "Stock4 valuation")
 
 ## Questions
 
