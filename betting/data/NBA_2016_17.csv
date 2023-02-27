@@ -1,0 +1,1310 @@
+﻿date,team_1,team_1_score,team_2,team_2_score,stadium_attendance,stadium
+Tue Oct 25 2016,New York Knicks,88,Cleveland Cavaliers,117,20562,Quicken Loans Arena
+Tue Oct 25 2016,Utah Jazz,104,Portland Trail Blazers,113,19446,Moda Center
+Tue Oct 25 2016,San Antonio Spurs,129,Golden State Warriors,100,19596,Oracle Arena
+Wed Oct 26 2016,Dallas Mavericks,121,Indiana Pacers,130,17923,Bankers Life Fieldhouse
+Wed Oct 26 2016,Miami Heat,108,Orlando Magic,96,19298,Amway Center
+Wed Oct 26 2016,Detroit Pistons,91,Toronto Raptors,109,19800,Air Canada Centre
+Wed Oct 26 2016,Brooklyn Nets,117,Boston Celtics,122,18624,TD Garden
+Wed Oct 26 2016,Charlotte Hornets,107,Milwaukee Bucks,96,18717,BMO Harris Bradley Center
+Wed Oct 26 2016,Denver Nuggets,107,New Orleans Pelicans,102,15869,Smoothie King Center
+Wed Oct 26 2016,Minnesota Timberwolves,98,Memphis Grizzlies,102,18119,FedEx Forum
+Wed Oct 26 2016,Oklahoma City Thunder,103,Philadelphia 76ers,97,20487,Wells Fargo Center
+Wed Oct 26 2016,Sacramento Kings,113,Phoenix Suns,94,18055,Talking Stick Resort Arena
+Wed Oct 26 2016,Houston Rockets,114,Los Angeles Lakers,120,18997,STAPLES Center
+Thu Oct 27 2016,Washington Wizards,99,Atlanta Hawks,114,19049,Philips Arena
+Thu Oct 27 2016,Boston Celtics,99,Chicago Bulls,105,21501,United Center
+Thu Oct 27 2016,Los Angeles Clippers,114,Portland Trail Blazers,106,19500,Moda Center
+Thu Oct 27 2016,San Antonio Spurs,102,Sacramento Kings,94,17608,Golden 1 Center
+Fri Oct 28 2016,Cleveland Cavaliers,94,Toronto Raptors,91,19800,Air Canada Centre
+Fri Oct 28 2016,Indiana Pacers,94,Brooklyn Nets,103,17732,Barclays Center
+Fri Oct 28 2016,Orlando Magic,82,Detroit Pistons,108,19122,The Palace of Auburn Hills
+Fri Oct 28 2016,Phoenix Suns,110,Oklahoma City Thunder,113,18203,Chesapeake Energy Arena
+Fri Oct 28 2016,Charlotte Hornets,97,Miami Heat,91,19600,AmericanAirlines Arena
+Fri Oct 28 2016,Houston Rockets,106,Dallas Mavericks,98,20163,American Airlines Center
+Fri Oct 28 2016,Los Angeles Lakers,89,Utah Jazz,96,19911,Vivint Smart Home Arena
+Fri Oct 28 2016,Golden State Warriors,122,New Orleans Pelicans,114,18217,Smoothie King Center
+Sat Oct 29 2016,Atlanta Hawks,104,Philadelphia 76ers,72,16312,Wells Fargo Center
+Sat Oct 29 2016,Boston Celtics,104,Charlotte Hornets,98,18708,Spectrum Center
+Sat Oct 29 2016,Orlando Magic,99,Cleveland Cavaliers,105,20562,Quicken Loans Arena
+Sat Oct 29 2016,Memphis Grizzlies,104,New York Knicks,111,19812,Madison Square Garden (IV)
+Sat Oct 29 2016,New Orleans Pelicans,79,San Antonio Spurs,98,18418,AT&T Center
+Sat Oct 29 2016,Brooklyn Nets,108,Milwaukee Bucks,110,12570,BMO Harris Bradley Center
+Sat Oct 29 2016,Indiana Pacers,101,Chicago Bulls,118,21373,United Center
+Sat Oct 29 2016,Portland Trail Blazers,115,Denver Nuggets,113,18055,Pepsi Center
+Sat Oct 29 2016,Minnesota Timberwolves,103,Sacramento Kings,106,17608,Golden 1 Center
+Sun Oct 30 2016,Utah Jazz,75,Los Angeles Clippers,88,19060,STAPLES Center
+Sun Oct 30 2016,Milwaukee Bucks,83,Detroit Pistons,98,15161,The Palace of Auburn Hills
+Sun Oct 30 2016,San Antonio Spurs,106,Miami Heat,99,19678,AmericanAirlines Arena
+Sun Oct 30 2016,Golden State Warriors,106,Phoenix Suns,100,17011,Talking Stick Resort Arena
+Sun Oct 30 2016,Los Angeles Lakers,96,Oklahoma City Thunder,113,18203,Chesapeake Energy Arena
+Sun Oct 30 2016,Dallas Mavericks,92,Houston Rockets,93,18055,Toyota Center
+Sun Oct 30 2016,Washington Wizards,103,Memphis Grizzlies,112,15573,FedEx Forum
+Mon Oct 31 2016,Sacramento Kings,95,Atlanta Hawks,106,12501,Philips Arena
+Mon Oct 31 2016,Chicago Bulls,118,Brooklyn Nets,88,15842,Barclays Center
+Mon Oct 31 2016,Denver Nuggets,102,Toronto Raptors,105,19800,Air Canada Centre
+Mon Oct 31 2016,Phoenix Suns,98,Los Angeles Clippers,116,19060,STAPLES Center
+Tue Nov 1 2016,Houston Rockets,120,Cleveland Cavaliers,128,20562,Quicken Loans Arena
+Tue Nov 1 2016,Los Angeles Lakers,108,Indiana Pacers,115,15348,Bankers Life Fieldhouse
+Tue Nov 1 2016,Orlando Magic,103,Philadelphia 76ers,101,12529,Wells Fargo Center
+Tue Nov 1 2016,New York Knicks,89,Detroit Pistons,102,13087,The Palace of Auburn Hills
+Tue Nov 1 2016,Sacramento Kings,96,Miami Heat,108,19612,AmericanAirlines Arena
+Tue Nov 1 2016,Memphis Grizzlies,80,Minnesota Timberwolves,116,14774,Target Center
+Tue Nov 1 2016,Milwaukee Bucks,117,New Orleans Pelicans,113,15515,Smoothie King Center
+Tue Nov 1 2016,Utah Jazz,106,San Antonio Spurs,91,18418,AT&T Center
+Tue Nov 1 2016,Golden State Warriors,127,Portland Trail Blazers,104,19393,Moda Center
+Wed Nov 2 2016,Philadelphia 76ers,93,Charlotte Hornets,109,15275,Spectrum Center
+Wed Nov 2 2016,Toronto Raptors,113,Washington Wizards,103,19581,Verizon Center
+Wed Nov 2 2016,Los Angeles Lakers,123,Atlanta Hawks,116,13800,Philips Arena
+Wed Nov 2 2016,Detroit Pistons,101,Brooklyn Nets,109,13650,Barclays Center
+Wed Nov 2 2016,Houston Rockets,118,New York Knicks,99,19812,Madison Square Garden (IV)
+Wed Nov 2 2016,Chicago Bulls,100,Boston Celtics,107,18624,TD Garden
+Wed Nov 2 2016,New Orleans Pelicans,83,Memphis Grizzlies,89,15881,FedEx Forum
+Wed Nov 2 2016,Dallas Mavericks,81,Utah Jazz,97,19318,Vivint Smart Home Arena
+Wed Nov 2 2016,Portland Trail Blazers,115,Phoenix Suns,118,17284,Talking Stick Resort Arena
+Wed Nov 2 2016,Oklahoma City Thunder,85,Los Angeles Clippers,83,19060,STAPLES Center
+Thu Nov 3 2016,Sacramento Kings,94,Orlando Magic,102,17026,Amway Center
+Thu Nov 3 2016,Boston Celtics,122,Cleveland Cavaliers,128,20562,Quicken Loans Arena
+Thu Nov 3 2016,Indiana Pacers,107,Milwaukee Bucks,125,11374,BMO Harris Bradley Center
+Thu Nov 3 2016,Denver Nuggets,102,Minnesota Timberwolves,99,11219,Target Center
+Thu Nov 3 2016,Oklahoma City Thunder,96,Golden State Warriors,122,19596,Oracle Arena
+Fri Nov 4 2016,Atlanta Hawks,92,Washington Wizards,95,14663,Verizon Center
+Fri Nov 4 2016,Charlotte Hornets,99,Brooklyn Nets,95,15775,Barclays Center
+Fri Nov 4 2016,Miami Heat,87,Toronto Raptors,96,19800,Air Canada Centre
+Fri Nov 4 2016,New York Knicks,117,Chicago Bulls,104,22376,United Center
+Fri Nov 4 2016,Los Angeles Clippers,99,Memphis Grizzlies,88,17115,FedEx Forum
+Fri Nov 4 2016,Phoenix Suns,112,New Orleans Pelicans,111,15379,Smoothie King Center
+Fri Nov 4 2016,Portland Trail Blazers,105,Dallas Mavericks,95,19475,American Airlines Center
+Fri Nov 4 2016,San Antonio Spurs,100,Utah Jazz,86,19911,Vivint Smart Home Arena
+Fri Nov 4 2016,Golden State Warriors,97,Los Angeles Lakers,117,18997,STAPLES Center
+Sat Nov 5 2016,Minnesota Timberwolves,92,Oklahoma City Thunder,112,18203,Chesapeake Energy Arena
+Sat Nov 5 2016,Denver Nuggets,86,Detroit Pistons,103,16218,The Palace of Auburn Hills
+Sat Nov 5 2016,Chicago Bulls,94,Indiana Pacers,111,17020,Bankers Life Fieldhouse
+Sat Nov 5 2016,Washington Wizards,86,Orlando Magic,88,18846,Amway Center
+Sat Nov 5 2016,Cleveland Cavaliers,102,Philadelphia 76ers,101,20497,Wells Fargo Center
+Sat Nov 5 2016,Houston Rockets,97,Atlanta Hawks,112,16895,Philips Arena
+Sat Nov 5 2016,Sacramento Kings,91,Milwaukee Bucks,117,16021,BMO Harris Bradley Center
+Sat Nov 5 2016,Los Angeles Clippers,116,San Antonio Spurs,92,18418,AT&T Center
+Sun Nov 6 2016,Utah Jazz,114,New York Knicks,109,19812,Madison Square Garden (IV)
+Sun Nov 6 2016,Portland Trail Blazers,100,Memphis Grizzlies,94,16233,FedEx Forum
+Sun Nov 6 2016,Sacramento Kings,96,Toronto Raptors,91,19800,Air Canada Centre
+Sun Nov 6 2016,Milwaukee Bucks,75,Dallas Mavericks,86,19345,American Airlines Center
+Sun Nov 6 2016,Denver Nuggets,123,Boston Celtics,107,17452,TD Garden
+Sun Nov 6 2016,Phoenix Suns,108,Los Angeles Lakers,119,18997,STAPLES Center
+Mon Nov 7 2016,Indiana Pacers,100,Charlotte Hornets,122,16880,Spectrum Center
+Mon Nov 7 2016,Utah Jazz,109,Philadelphia 76ers,84,14168,Wells Fargo Center
+Mon Nov 7 2016,Houston Rockets,114,Washington Wizards,106,13173,Verizon Center
+Mon Nov 7 2016,Orlando Magic,80,Chicago Bulls,112,21320,United Center
+Mon Nov 7 2016,Miami Heat,85,Oklahoma City Thunder,97,18203,Chesapeake Energy Arena
+Mon Nov 7 2016,New Orleans Pelicans,106,Golden State Warriors,116,19596,Oracle Arena
+Mon Nov 7 2016,Detroit Pistons,82,Los Angeles Clippers,114,19060,STAPLES Center
+Tue Nov 8 2016,Atlanta Hawks,110,Cleveland Cavaliers,106,20562,Quicken Loans Arena
+Tue Nov 8 2016,Minnesota Timberwolves,110,Brooklyn Nets,119,13610,Barclays Center
+Tue Nov 8 2016,Denver Nuggets,107,Memphis Grizzlies,108,15109,FedEx Forum
+Tue Nov 8 2016,Phoenix Suns,121,Portland Trail Blazers,124,19239,Moda Center
+Tue Nov 8 2016,Dallas Mavericks,109,Los Angeles Lakers,97,18997,STAPLES Center
+Tue Nov 8 2016,New Orleans Pelicans,94,Sacramento Kings,102,17608,Golden 1 Center
+Wed Nov 9 2016,Utah Jazz,98,Charlotte Hornets,104,15712,Spectrum Center
+Wed Nov 9 2016,Philadelphia 76ers,115,Indiana Pacers,122,15360,Bankers Life Fieldhouse
+Wed Nov 9 2016,Brooklyn Nets,96,New York Knicks,110,19812,Madison Square Garden (IV)
+Wed Nov 9 2016,Minnesota Timberwolves,123,Orlando Magic,107,17102,Amway Center
+Wed Nov 9 2016,Boston Celtics,93,Washington Wizards,118,12675,Verizon Center
+Wed Nov 9 2016,Chicago Bulls,107,Atlanta Hawks,115,16354,Philips Arena
+Wed Nov 9 2016,Toronto Raptors,112,Oklahoma City Thunder,102,18203,Chesapeake Energy Arena
+Wed Nov 9 2016,Detroit Pistons,100,Phoenix Suns,107,16719,Talking Stick Resort Arena
+Wed Nov 9 2016,Houston Rockets,101,San Antonio Spurs,99,18418,AT&T Center
+Wed Nov 9 2016,Dallas Mavericks,95,Golden State Warriors,116,19596,Oracle Arena
+Wed Nov 9 2016,Portland Trail Blazers,80,Los Angeles Clippers,111,19060,STAPLES Center
+Thu Nov 10 2016,Chicago Bulls,98,Miami Heat,95,19600,AmericanAirlines Arena
+Thu Nov 10 2016,New Orleans Pelicans,112,Milwaukee Bucks,106,12159,BMO Harris Bradley Center
+Thu Nov 10 2016,Golden State Warriors,125,Denver Nuggets,101,17569,Pepsi Center
+Thu Nov 10 2016,Los Angeles Lakers,101,Sacramento Kings,91,17608,Golden 1 Center
+Fri Nov 11 2016,Toronto Raptors,113,Charlotte Hornets,111,18107,Spectrum Center
+Fri Nov 11 2016,Utah Jazz,87,Orlando Magic,74,18846,Amway Center
+Fri Nov 11 2016,Indiana Pacers,105,Philadelphia 76ers,109,17643,Wells Fargo Center
+Fri Nov 11 2016,Cleveland Cavaliers,105,Washington Wizards,94,20356,Verizon Center
+Fri Nov 11 2016,New York Knicks,87,Boston Celtics,115,18624,TD Garden
+Fri Nov 11 2016,Los Angeles Clippers,110,Oklahoma City Thunder,108,18203,Chesapeake Energy Arena
+Fri Nov 11 2016,Detroit Pistons,86,San Antonio Spurs,96,18418,AT&T Center
+Fri Nov 11 2016,Sacramento Kings,120,Portland Trail Blazers,122,19918,Moda Center
+Sat Nov 12 2016,Boston Celtics,105,Indiana Pacers,99,17923,Bankers Life Fieldhouse
+Sat Nov 12 2016,Los Angeles Lakers,126,New Orleans Pelicans,99,17138,Smoothie King Center
+Sat Nov 12 2016,Philadelphia 76ers,96,Atlanta Hawks,117,17399,Philips Arena
+Sat Nov 12 2016,New York Knicks,107,Toronto Raptors,118,19800,Air Canada Centre
+Sat Nov 12 2016,Washington Wizards,95,Chicago Bulls,106,21962,United Center
+Sat Nov 12 2016,San Antonio Spurs,106,Houston Rockets,100,18055,Toyota Center
+Sat Nov 12 2016,Utah Jazz,102,Miami Heat,91,19600,AmericanAirlines Arena
+Sat Nov 12 2016,Los Angeles Clippers,119,Minnesota Timberwolves,105,14494,Target Center
+Sat Nov 12 2016,Memphis Grizzlies,96,Milwaukee Bucks,106,14327,BMO Harris Bradley Center
+Sat Nov 12 2016,Detroit Pistons,106,Denver Nuggets,95,13997,Pepsi Center
+Sat Nov 12 2016,Brooklyn Nets,122,Phoenix Suns,104,17126,Talking Stick Resort Arena
+Sun Nov 13 2016,Charlotte Hornets,93,Cleveland Cavaliers,100,20562,Quicken Loans Arena
+Sun Nov 13 2016,Los Angeles Lakers,99,Minnesota Timberwolves,125,14432,Target Center
+Sun Nov 13 2016,Orlando Magic,119,Oklahoma City Thunder,117,18203,Chesapeake Energy Arena
+Sun Nov 13 2016,Phoenix Suns,120,Golden State Warriors,133,19596,Oracle Arena
+Sun Nov 13 2016,Denver Nuggets,105,Portland Trail Blazers,112,19362,Moda Center
+Mon Nov 14 2016,Orlando Magic,69,Indiana Pacers,88,14825,Bankers Life Fieldhouse
+Mon Nov 14 2016,Oklahoma City Thunder,88,Detroit Pistons,104,14172,The Palace of Auburn Hills
+Mon Nov 14 2016,Dallas Mavericks,77,New York Knicks,93,19812,Madison Square Garden (IV)
+Mon Nov 14 2016,Philadelphia 76ers,88,Houston Rockets,115,13183,Toyota Center
+Mon Nov 14 2016,Boston Celtics,105,New Orleans Pelicans,106,15001,Smoothie King Center
+Mon Nov 14 2016,Miami Heat,90,San Antonio Spurs,94,18418,AT&T Center
+Mon Nov 14 2016,Memphis Grizzlies,102,Utah Jazz,96,18176,Vivint Smart Home Arena
+Mon Nov 14 2016,Brooklyn Nets,95,Los Angeles Clippers,127,19060,STAPLES Center
+Tue Nov 15 2016,Toronto Raptors,117,Cleveland Cavaliers,121,20562,Quicken Loans Arena
+Tue Nov 15 2016,Atlanta Hawks,93,Miami Heat,90,19600,AmericanAirlines Arena
+Tue Nov 15 2016,Charlotte Hornets,115,Minnesota Timberwolves,108,10349,Target Center
+Tue Nov 15 2016,Chicago Bulls,113,Portland Trail Blazers,88,19393,Moda Center
+Tue Nov 15 2016,Brooklyn Nets,118,Los Angeles Lakers,125,18426,STAPLES Center
+Wed Nov 16 2016,Cleveland Cavaliers,93,Indiana Pacers,103,17022,Bankers Life Fieldhouse
+Wed Nov 16 2016,New Orleans Pelicans,82,Orlando Magic,89,16127,Amway Center
+Wed Nov 16 2016,Washington Wizards,102,Philadelphia 76ers,109,14863,Wells Fargo Center
+Wed Nov 16 2016,Milwaukee Bucks,100,Atlanta Hawks,107,14656,Philips Arena
+Wed Nov 16 2016,Dallas Mavericks,83,Boston Celtics,90,18624,TD Garden
+Wed Nov 16 2016,Detroit Pistons,102,New York Knicks,105,19812,Madison Square Garden (IV)
+Wed Nov 16 2016,Houston Rockets,103,Oklahoma City Thunder,105,18203,Chesapeake Energy Arena
+Wed Nov 16 2016,Golden State Warriors,127,Toronto Raptors,121,21050,Air Canada Centre
+Wed Nov 16 2016,Phoenix Suns,104,Denver Nuggets,120,10247,Pepsi Center
+Wed Nov 16 2016,Memphis Grizzlies,111,Los Angeles Clippers,107,19060,STAPLES Center
+Wed Nov 16 2016,San Antonio Spurs,110,Sacramento Kings,105,17608,Golden 1 Center
+Thu Nov 17 2016,New York Knicks,112,Washington Wizards,119,16704,Verizon Center
+Thu Nov 17 2016,Milwaukee Bucks,73,Miami Heat,96,19600,AmericanAirlines Arena
+Thu Nov 17 2016,Portland Trail Blazers,109,Houston Rockets,126,15550,Toyota Center
+Thu Nov 17 2016,Philadelphia 76ers,86,Minnesota Timberwolves,110,16866,Target Center
+Thu Nov 17 2016,Chicago Bulls,85,Utah Jazz,77,19911,Vivint Smart Home Arena
+Fri Nov 18 2016,Atlanta Hawks,96,Charlotte Hornets,100,17989,Spectrum Center
+Fri Nov 18 2016,Phoenix Suns,116,Indiana Pacers,96,16780,Bankers Life Fieldhouse
+Fri Nov 18 2016,Detroit Pistons,81,Cleveland Cavaliers,104,20562,Quicken Loans Arena
+Fri Nov 18 2016,Golden State Warriors,104,Boston Celtics,88,18624,TD Garden
+Fri Nov 18 2016,Portland Trail Blazers,101,New Orleans Pelicans,113,15552,Smoothie King Center
+Fri Nov 18 2016,Brooklyn Nets,105,Oklahoma City Thunder,124,18203,Chesapeake Energy Arena
+Fri Nov 18 2016,Memphis Grizzlies,80,Dallas Mavericks,64,19715,American Airlines Center
+Fri Nov 18 2016,Toronto Raptors,113,Denver Nuggets,111,12476,Pepsi Center
+Fri Nov 18 2016,San Antonio Spurs,116,Los Angeles Lakers,107,18997,STAPLES Center
+Fri Nov 18 2016,Los Angeles Clippers,121,Sacramento Kings,115,17608,Golden 1 Center
+Sat Nov 19 2016,Utah Jazz,102,Houston Rockets,111,14760,Toyota Center
+Sat Nov 19 2016,Boston Celtics,94,Detroit Pistons,92,16107,The Palace of Auburn Hills
+Sat Nov 19 2016,Charlotte Hornets,116,New Orleans Pelicans,121,15739,Smoothie King Center
+Sat Nov 19 2016,Dallas Mavericks,87,Orlando Magic,95,18846,Amway Center
+Sat Nov 19 2016,Miami Heat,114,Washington Wizards,111,15848,Verizon Center
+Sat Nov 19 2016,Phoenix Suns,105,Philadelphia 76ers,120,18125,Wells Fargo Center
+Sat Nov 19 2016,Minnesota Timberwolves,71,Memphis Grizzlies,93,17112,FedEx Forum
+Sat Nov 19 2016,Golden State Warriors,124,Milwaukee Bucks,121,18717,BMO Harris Bradley Center
+Sat Nov 19 2016,Chicago Bulls,95,Los Angeles Clippers,102,19060,STAPLES Center
+Sun Nov 20 2016,Atlanta Hawks,94,New York Knicks,104,19812,Madison Square Garden (IV)
+Sun Nov 20 2016,Portland Trail Blazers,129,Brooklyn Nets,109,16608,Barclays Center
+Sun Nov 20 2016,Indiana Pacers,115,Oklahoma City Thunder,111,18203,Chesapeake Energy Arena
+Sun Nov 20 2016,Utah Jazz,91,Denver Nuggets,105,12565,Pepsi Center
+Sun Nov 20 2016,Toronto Raptors,99,Sacramento Kings,102,17608,Golden 1 Center
+Sun Nov 20 2016,Chicago Bulls,118,Los Angeles Lakers,110,18997,STAPLES Center
+Mon Nov 21 2016,Memphis Grizzlies,105,Charlotte Hornets,90,14181,Spectrum Center
+Mon Nov 21 2016,Golden State Warriors,120,Indiana Pacers,83,17923,Bankers Life Fieldhouse
+Mon Nov 21 2016,Miami Heat,94,Philadelphia 76ers,101,16477,Wells Fargo Center
+Mon Nov 21 2016,Phoenix Suns,101,Washington Wizards,106,12790,Verizon Center
+Mon Nov 21 2016,Houston Rockets,99,Detroit Pistons,96,13632,The Palace of Auburn Hills
+Mon Nov 21 2016,Orlando Magic,89,Milwaukee Bucks,93,12306,BMO Harris Bradley Center
+Mon Nov 21 2016,Boston Celtics,99,Minnesota Timberwolves,93,13167,Target Center
+Mon Nov 21 2016,Dallas Mavericks,91,San Antonio Spurs,96,18418,AT&T Center
+Mon Nov 21 2016,Toronto Raptors,115,Los Angeles Clippers,123,19060,STAPLES Center
+Tue Nov 22 2016,New Orleans Pelicans,112,Atlanta Hawks,94,19120,Philips Arena
+Tue Nov 22 2016,Portland Trail Blazers,103,New York Knicks,107,19812,Madison Square Garden (IV)
+Tue Nov 22 2016,Chicago Bulls,107,Denver Nuggets,110,14328,Pepsi Center
+Tue Nov 22 2016,Oklahoma City Thunder,109,Los Angeles Lakers,111,18997,STAPLES Center
+Wed Nov 23 2016,San Antonio Spurs,119,Charlotte Hornets,114,18515,Spectrum Center
+Wed Nov 23 2016,Portland Trail Blazers,125,Cleveland Cavaliers,137,20562,Quicken Loans Arena
+Wed Nov 23 2016,Atlanta Hawks,96,Indiana Pacers,85,16032,Bankers Life Fieldhouse
+Wed Nov 23 2016,Phoenix Suns,92,Orlando Magic,87,17069,Amway Center
+Wed Nov 23 2016,Memphis Grizzlies,104,Philadelphia 76ers,99,15880,Wells Fargo Center
+Wed Nov 23 2016,Boston Celtics,111,Brooklyn Nets,92,16210,Barclays Center
+Wed Nov 23 2016,Miami Heat,84,Detroit Pistons,107,14520,The Palace of Auburn Hills
+Wed Nov 23 2016,Toronto Raptors,115,Houston Rockets,102,18055,Toyota Center
+Wed Nov 23 2016,Los Angeles Clippers,124,Dallas Mavericks,104,20042,American Airlines Center
+Wed Nov 23 2016,Denver Nuggets,83,Utah Jazz,108,19229,Vivint Smart Home Arena
+Wed Nov 23 2016,Minnesota Timberwolves,96,New Orleans Pelicans,117,15555,Smoothie King Center
+Wed Nov 23 2016,Los Angeles Lakers,106,Golden State Warriors,149,19596,Oracle Arena
+Wed Nov 23 2016,Oklahoma City Thunder,101,Sacramento Kings,116,17608,Golden 1 Center
+Fri Nov 25 2016,San Antonio Spurs,109,Boston Celtics,103,18624,TD Garden
+Fri Nov 25 2016,Washington Wizards,94,Orlando Magic,91,17103,Amway Center
+Fri Nov 25 2016,Dallas Mavericks,90,Cleveland Cavaliers,128,20562,Quicken Loans Arena
+Fri Nov 25 2016,Los Angeles Clippers,97,Detroit Pistons,108,17023,The Palace of Auburn Hills
+Fri Nov 25 2016,Charlotte Hornets,111,New York Knicks,113,19812,Madison Square Garden (IV)
+Fri Nov 25 2016,Chicago Bulls,105,Philadelphia 76ers,89,18234,Wells Fargo Center
+Fri Nov 25 2016,Brooklyn Nets,97,Indiana Pacers,118,16083,Bankers Life Fieldhouse
+Fri Nov 25 2016,Miami Heat,90,Memphis Grizzlies,81,17222,FedEx Forum
+Fri Nov 25 2016,Toronto Raptors,105,Milwaukee Bucks,99,16223,BMO Harris Bradley Center
+Fri Nov 25 2016,Atlanta Hawks,68,Utah Jazz,95,19911,Vivint Smart Home Arena
+Fri Nov 25 2016,Oklahoma City Thunder,132,Denver Nuggets,129,14327,Pepsi Center
+Fri Nov 25 2016,Minnesota Timberwolves,98,Phoenix Suns,85,16728,Talking Stick Resort Arena
+Fri Nov 25 2016,New Orleans Pelicans,104,Portland Trail Blazers,119,19393,Moda Center
+Fri Nov 25 2016,Golden State Warriors,109,Los Angeles Lakers,85,18997,STAPLES Center
+Fri Nov 25 2016,Houston Rockets,117,Sacramento Kings,104,17608,Golden 1 Center
+Sat Nov 26 2016,New York Knicks,102,Charlotte Hornets,107,19195,Spectrum Center
+Sat Nov 26 2016,San Antonio Spurs,112,Washington Wizards,100,17066,Verizon Center
+Sat Nov 26 2016,Memphis Grizzlies,110,Miami Heat,107,19600,AmericanAirlines Arena
+Sat Nov 26 2016,Detroit Pistons,88,Oklahoma City Thunder,106,18203,Chesapeake Energy Arena
+Sat Nov 26 2016,Minnesota Timberwolves,102,Golden State Warriors,115,19596,Oracle Arena
+Sun Nov 27 2016,Cleveland Cavaliers,112,Philadelphia 76ers,108,19311,Wells Fargo Center
+Sun Nov 27 2016,Denver Nuggets,120,Phoenix Suns,114,15365,Talking Stick Resort Arena
+Sun Nov 27 2016,Sacramento Kings,122,Brooklyn Nets,105,13646,Barclays Center
+Sun Nov 27 2016,Los Angeles Clippers,70,Indiana Pacers,91,15572,Bankers Life Fieldhouse
+Sun Nov 27 2016,Milwaukee Bucks,104,Orlando Magic,96,16521,Amway Center
+Sun Nov 27 2016,New Orleans Pelicans,81,Dallas Mavericks,91,19302,American Airlines Center
+Sun Nov 27 2016,Houston Rockets,130,Portland Trail Blazers,114,19393,Moda Center
+Sun Nov 27 2016,Atlanta Hawks,94,Los Angeles Lakers,109,18997,STAPLES Center
+Mon Nov 28 2016,Sacramento Kings,95,Washington Wizards,101,12571,Verizon Center
+Mon Nov 28 2016,Boston Celtics,112,Miami Heat,104,19600,AmericanAirlines Arena
+Mon Nov 28 2016,Oklahoma City Thunder,112,New York Knicks,103,19812,Madison Square Garden (IV)
+Mon Nov 28 2016,Philadelphia 76ers,95,Toronto Raptors,122,19800,Air Canada Centre
+Mon Nov 28 2016,Charlotte Hornets,104,Memphis Grizzlies,85,13143,FedEx Forum
+Mon Nov 28 2016,Utah Jazz,112,Minnesota Timberwolves,103,9384,Target Center
+Mon Nov 28 2016,Atlanta Hawks,100,Golden State Warriors,105,19596,Oracle Arena
+Tue Nov 29 2016,Detroit Pistons,112,Charlotte Hornets,89,14266,Spectrum Center
+Tue Nov 29 2016,Los Angeles Clippers,122,Brooklyn Nets,127,15681,Barclays Center
+Tue Nov 29 2016,Cleveland Cavaliers,101,Milwaukee Bucks,118,16559,BMO Harris Bradley Center
+Tue Nov 29 2016,Los Angeles Lakers,88,New Orleans Pelicans,105,14024,Smoothie King Center
+Tue Nov 29 2016,Orlando Magic,95,San Antonio Spurs,83,18418,AT&T Center
+Tue Nov 29 2016,Houston Rockets,101,Utah Jazz,120,19911,Vivint Smart Home Arena
+Wed Nov 30 2016,Detroit Pistons,121,Boston Celtics,114,17338,TD Garden
+Wed Nov 30 2016,Memphis Grizzlies,105,Toronto Raptors,120,19800,Air Canada Centre
+Wed Nov 30 2016,Los Angeles Lakers,96,Chicago Bulls,90,21773,United Center
+Wed Nov 30 2016,New York Knicks,106,Minnesota Timberwolves,104,13987,Target Center
+Wed Nov 30 2016,Washington Wizards,115,Oklahoma City Thunder,126,18203,Chesapeake Energy Arena
+Wed Nov 30 2016,San Antonio Spurs,94,Dallas Mavericks,87,19245,American Airlines Center
+Wed Nov 30 2016,Miami Heat,106,Denver Nuggets,98,11471,Pepsi Center
+Wed Nov 30 2016,Atlanta Hawks,107,Phoenix Suns,109,15909,Talking Stick Resort Arena
+Wed Nov 30 2016,Indiana Pacers,109,Portland Trail Blazers,131,19107,Moda Center
+Thu Dec 1 2016,Dallas Mavericks,87,Charlotte Hornets,97,14471,Spectrum Center
+Thu Dec 1 2016,Milwaukee Bucks,111,Brooklyn Nets,93,12675,Barclays Center
+Thu Dec 1 2016,Los Angeles Clippers,113,Cleveland Cavaliers,94,20562,Quicken Loans Arena
+Thu Dec 1 2016,Orlando Magic,94,Memphis Grizzlies,95,13344,FedEx Forum
+Thu Dec 1 2016,Miami Heat,111,Utah Jazz,110,19073,Vivint Smart Home Arena
+Thu Dec 1 2016,Houston Rockets,132,Golden State Warriors,127,19596,Oracle Arena
+Fri Dec 2 2016,Orlando Magic,105,Philadelphia 76ers,88,13711,Wells Fargo Center
+Fri Dec 2 2016,Sacramento Kings,92,Boston Celtics,97,18624,TD Garden
+Fri Dec 2 2016,Minnesota Timberwolves,114,New York Knicks,118,19812,Madison Square Garden (IV)
+Fri Dec 2 2016,Los Angeles Lakers,80,Toronto Raptors,113,19800,Air Canada Centre
+Fri Dec 2 2016,Detroit Pistons,121,Atlanta Hawks,85,15500,Philips Arena
+Fri Dec 2 2016,Cleveland Cavaliers,105,Chicago Bulls,111,21775,United Center
+Fri Dec 2 2016,Los Angeles Clippers,114,New Orleans Pelicans,96,16538,Smoothie King Center
+Fri Dec 2 2016,Washington Wizards,105,San Antonio Spurs,107,18418,AT&T Center
+Fri Dec 2 2016,Houston Rockets,128,Denver Nuggets,110,15549,Pepsi Center
+Sat Dec 3 2016,Brooklyn Nets,103,Milwaukee Bucks,112,15565,BMO Harris Bradley Center
+Sat Dec 3 2016,Minnesota Timberwolves,125,Charlotte Hornets,120,16982,Spectrum Center
+Sat Dec 3 2016,Boston Celtics,107,Philadelphia 76ers,106,17063,Wells Fargo Center
+Sat Dec 3 2016,Atlanta Hawks,84,Toronto Raptors,128,19800,Air Canada Centre
+Sat Dec 3 2016,Los Angeles Lakers,100,Memphis Grizzlies,103,17017,FedEx Forum
+Sat Dec 3 2016,Chicago Bulls,82,Dallas Mavericks,107,19857,American Airlines Center
+Sat Dec 3 2016,Denver Nuggets,98,Utah Jazz,105,19911,Vivint Smart Home Arena
+Sat Dec 3 2016,Miami Heat,92,Portland Trail Blazers,99,19393,Moda Center
+Sat Dec 3 2016,Phoenix Suns,109,Golden State Warriors,138,19596,Oracle Arena
+Sun Dec 4 2016,Orlando Magic,98,Detroit Pistons,92,15206,The Palace of Auburn Hills
+Sun Dec 4 2016,New Orleans Pelicans,92,Oklahoma City Thunder,101,18203,Chesapeake Energy Arena
+Sun Dec 4 2016,Sacramento Kings,98,New York Knicks,106,19812,Madison Square Garden (IV)
+Sun Dec 4 2016,Indiana Pacers,111,Los Angeles Clippers,102,19060,STAPLES Center
+Mon Dec 5 2016,Denver Nuggets,106,Philadelphia 76ers,98,11815,Wells Fargo Center
+Mon Dec 5 2016,Oklahoma City Thunder,102,Atlanta Hawks,99,14654,Philips Arena
+Mon Dec 5 2016,Washington Wizards,118,Brooklyn Nets,113,12529,Barclays Center
+Mon Dec 5 2016,Cleveland Cavaliers,116,Toronto Raptors,112,19800,Air Canada Centre
+Mon Dec 5 2016,Portland Trail Blazers,112,Chicago Bulls,110,21351,United Center
+Mon Dec 5 2016,Boston Celtics,106,Houston Rockets,107,15730,Toyota Center
+Mon Dec 5 2016,San Antonio Spurs,97,Milwaukee Bucks,96,14256,BMO Harris Bradley Center
+Mon Dec 5 2016,Memphis Grizzlies,110,New Orleans Pelicans,108,13795,Smoothie King Center
+Mon Dec 5 2016,Charlotte Hornets,109,Dallas Mavericks,101,19228,American Airlines Center
+Mon Dec 5 2016,Indiana Pacers,106,Golden State Warriors,142,19596,Oracle Arena
+Mon Dec 5 2016,Utah Jazz,107,Los Angeles Lakers,101,18279,STAPLES Center
+Tue Dec 6 2016,Orlando Magic,124,Washington Wizards,116,12116,Verizon Center
+Tue Dec 6 2016,Chicago Bulls,91,Detroit Pistons,102,14305,The Palace of Auburn Hills
+Tue Dec 6 2016,New York Knicks,114,Miami Heat,103,19610,AmericanAirlines Arena
+Tue Dec 6 2016,Philadelphia 76ers,91,Memphis Grizzlies,96,13521,FedEx Forum
+Tue Dec 6 2016,San Antonio Spurs,105,Minnesota Timberwolves,91,12585,Target Center
+Tue Dec 6 2016,Phoenix Suns,105,Utah Jazz,112,18997,Vivint Smart Home Arena
+Wed Dec 7 2016,Detroit Pistons,77,Charlotte Hornets,87,15141,Spectrum Center
+Wed Dec 7 2016,Boston Celtics,117,Orlando Magic,87,17009,Amway Center
+Wed Dec 7 2016,Miami Heat,95,Atlanta Hawks,103,11326,Philips Arena
+Wed Dec 7 2016,Denver Nuggets,111,Brooklyn Nets,116,14159,Barclays Center
+Wed Dec 7 2016,Los Angeles Lakers,95,Houston Rockets,134,16141,Toyota Center
+Wed Dec 7 2016,Portland Trail Blazers,107,Milwaukee Bucks,115,14033,BMO Harris Bradley Center
+Wed Dec 7 2016,Cleveland Cavaliers,126,New York Knicks,94,19812,Madison Square Garden (IV)
+Wed Dec 7 2016,Sacramento Kings,120,Dallas Mavericks,89,19711,American Airlines Center
+Wed Dec 7 2016,Indiana Pacers,109,Phoenix Suns,94,17452,Talking Stick Resort Arena
+Wed Dec 7 2016,Golden State Warriors,115,Los Angeles Clippers,98,19239,STAPLES Center
+Thu Dec 8 2016,Minnesota Timberwolves,110,Toronto Raptors,124,19800,Air Canada Centre
+Thu Dec 8 2016,Denver Nuggets,85,Washington Wizards,92,12645,Verizon Center
+Thu Dec 8 2016,Portland Trail Blazers,86,Memphis Grizzlies,88,14317,FedEx Forum
+Thu Dec 8 2016,Philadelphia 76ers,99,New Orleans Pelicans,88,14158,Smoothie King Center
+Thu Dec 8 2016,Golden State Warriors,106,Utah Jazz,99,19911,Vivint Smart Home Arena
+Thu Dec 8 2016,San Antonio Spurs,91,Chicago Bulls,95,21489,United Center
+Fri Dec 9 2016,Orlando Magic,88,Charlotte Hornets,109,15707,Spectrum Center
+Fri Dec 9 2016,Toronto Raptors,101,Boston Celtics,94,18624,TD Garden
+Fri Dec 9 2016,Miami Heat,84,Cleveland Cavaliers,114,20562,Quicken Loans Arena
+Fri Dec 9 2016,Atlanta Hawks,114,Milwaukee Bucks,110,16289,BMO Harris Bradley Center
+Fri Dec 9 2016,Detroit Pistons,117,Minnesota Timberwolves,90,14109,Target Center
+Fri Dec 9 2016,Houston Rockets,102,Oklahoma City Thunder,99,18203,Chesapeake Energy Arena
+Fri Dec 9 2016,Indiana Pacers,103,Dallas Mavericks,111,19486,American Airlines Center
+Fri Dec 9 2016,Phoenix Suns,119,Los Angeles Lakers,115,18997,STAPLES Center
+Fri Dec 9 2016,New York Knicks,103,Sacramento Kings,100,17608,Golden 1 Center
+Sat Dec 10 2016,Portland Trail Blazers,111,Indiana Pacers,118,16211,Bankers Life Fieldhouse
+Sat Dec 10 2016,Denver Nuggets,121,Orlando Magic,113,17010,Amway Center
+Sat Dec 10 2016,Milwaukee Bucks,105,Washington Wizards,110,14816,Verizon Center
+Sat Dec 10 2016,Charlotte Hornets,105,Cleveland Cavaliers,116,20562,Quicken Loans Arena
+Sat Dec 10 2016,Miami Heat,100,Chicago Bulls,105,21450,United Center
+Sat Dec 10 2016,Dallas Mavericks,87,Houston Rockets,109,15761,Toyota Center
+Sat Dec 10 2016,Golden State Warriors,89,Memphis Grizzlies,110,18119,FedEx Forum
+Sat Dec 10 2016,Brooklyn Nets,101,San Antonio Spurs,130,18418,AT&T Center
+Sat Dec 10 2016,Sacramento Kings,84,Utah Jazz,104,19331,Vivint Smart Home Arena
+Sat Dec 10 2016,New Orleans Pelicans,105,Los Angeles Clippers,133,19060,STAPLES Center
+Sun Dec 11 2016,Philadelphia 76ers,97,Detroit Pistons,79,7244,The Palace of Auburn Hills
+Sun Dec 11 2016,Golden State Warriors,116,Minnesota Timberwolves,108,18452,Target Center
+Sun Dec 11 2016,Boston Celtics,96,Oklahoma City Thunder,99,18203,Chesapeake Energy Arena
+Sun Dec 11 2016,New Orleans Pelicans,120,Phoenix Suns,119,16949,Talking Stick Resort Arena
+Sun Dec 11 2016,New York Knicks,118,Los Angeles Lakers,112,18997,STAPLES Center
+Mon Dec 12 2016,Charlotte Hornets,94,Indiana Pacers,110,14138,Bankers Life Fieldhouse
+Mon Dec 12 2016,Washington Wizards,101,Miami Heat,112,19600,AmericanAirlines Arena
+Mon Dec 12 2016,Milwaukee Bucks,100,Toronto Raptors,122,19800,Air Canada Centre
+Mon Dec 12 2016,Brooklyn Nets,118,Houston Rockets,122,13619,Toyota Center
+Mon Dec 12 2016,Denver Nuggets,92,Dallas Mavericks,112,19425,American Airlines Center
+Mon Dec 12 2016,Portland Trail Blazers,120,Los Angeles Clippers,121,19060,STAPLES Center
+Mon Dec 12 2016,Los Angeles Lakers,92,Sacramento Kings,116,17608,Golden 1 Center
+Tue Dec 13 2016,Memphis Grizzlies,86,Cleveland Cavaliers,103,20562,Quicken Loans Arena
+Tue Dec 13 2016,Orlando Magic,131,Atlanta Hawks,120,13585,Philips Arena
+Tue Dec 13 2016,Minnesota Timberwolves,99,Chicago Bulls,94,21146,United Center
+Tue Dec 13 2016,Golden State Warriors,113,New Orleans Pelicans,109,17789,Smoothie King Center
+Tue Dec 13 2016,New York Knicks,111,Phoenix Suns,113,16429,Talking Stick Resort Arena
+Tue Dec 13 2016,Oklahoma City Thunder,95,Portland Trail Blazers,114,19505,Moda Center
+Wed Dec 14 2016,Indiana Pacers,89,Miami Heat,95,19600,AmericanAirlines Arena
+Wed Dec 14 2016,Los Angeles Clippers,113,Orlando Magic,108,18846,Amway Center
+Wed Dec 14 2016,Toronto Raptors,123,Philadelphia 76ers,114,16192,Wells Fargo Center
+Wed Dec 14 2016,Charlotte Hornets,106,Washington Wizards,109,13447,Verizon Center
+Wed Dec 14 2016,Los Angeles Lakers,97,Brooklyn Nets,107,17732,Barclays Center
+Wed Dec 14 2016,Sacramento Kings,98,Houston Rockets,132,15039,Toyota Center
+Wed Dec 14 2016,Cleveland Cavaliers,85,Memphis Grizzlies,93,17449,FedEx Forum
+Wed Dec 14 2016,Detroit Pistons,95,Dallas Mavericks,85,19687,American Airlines Center
+Wed Dec 14 2016,Oklahoma City Thunder,89,Utah Jazz,109,19911,Vivint Smart Home Arena
+Wed Dec 14 2016,Boston Celtics,101,San Antonio Spurs,108,18418,AT&T Center
+Thu Dec 15 2016,Chicago Bulls,97,Milwaukee Bucks,108,16704,BMO Harris Bradley Center
+Thu Dec 15 2016,Indiana Pacers,95,New Orleans Pelicans,102,15472,Smoothie King Center
+Thu Dec 15 2016,Portland Trail Blazers,120,Denver Nuggets,132,10022,Pepsi Center
+Thu Dec 15 2016,San Antonio Spurs,107,Phoenix Suns,92,17165,Talking Stick Resort Arena
+Thu Dec 15 2016,New York Knicks,90,Golden State Warriors,103,19596,Oracle Arena
+Fri Dec 16 2016,Brooklyn Nets,111,Orlando Magic,118,17668,Amway Center
+Fri Dec 16 2016,Detroit Pistons,108,Washington Wizards,122,15573,Verizon Center
+Fri Dec 16 2016,Charlotte Hornets,88,Boston Celtics,96,18624,TD Garden
+Fri Dec 16 2016,Atlanta Hawks,125,Toronto Raptors,121,19800,Air Canada Centre
+Fri Dec 16 2016,Milwaukee Bucks,95,Chicago Bulls,69,21324,United Center
+Fri Dec 16 2016,New Orleans Pelicans,100,Houston Rockets,122,16728,Toyota Center
+Fri Dec 16 2016,Sacramento Kings,96,Memphis Grizzlies,92,15987,FedEx Forum
+Fri Dec 16 2016,Los Angeles Clippers,102,Miami Heat,98,19600,AmericanAirlines Arena
+Fri Dec 16 2016,Los Angeles Lakers,100,Philadelphia 76ers,89,20491,Wells Fargo Center
+Fri Dec 16 2016,Dallas Mavericks,100,Utah Jazz,103,18721,Vivint Smart Home Arena
+Sat Dec 17 2016,Phoenix Suns,101,Oklahoma City Thunder,114,18203,Chesapeake Energy Arena
+Sat Dec 17 2016,Indiana Pacers,105,Detroit Pistons,90,15231,The Palace of Auburn Hills
+Sat Dec 17 2016,Charlotte Hornets,107,Atlanta Hawks,99,17918,Philips Arena
+Sat Dec 17 2016,Los Angeles Lakers,108,Cleveland Cavaliers,119,20562,Quicken Loans Arena
+Sat Dec 17 2016,Houston Rockets,111,Minnesota Timberwolves,109,14689,Target Center
+Sat Dec 17 2016,New York Knicks,114,Denver Nuggets,127,12042,Pepsi Center
+Sat Dec 17 2016,Portland Trail Blazers,90,Golden State Warriors,135,19596,Oracle Arena
+Sun Dec 18 2016,Los Angeles Clippers,110,Washington Wizards,117,17380,Verizon Center
+Sun Dec 18 2016,Sacramento Kings,79,Dallas Mavericks,99,19504,American Airlines Center
+Sun Dec 18 2016,Utah Jazz,82,Memphis Grizzlies,73,15862,FedEx Forum
+Sun Dec 18 2016,Boston Celtics,105,Miami Heat,95,19600,AmericanAirlines Arena
+Sun Dec 18 2016,Toronto Raptors,109,Orlando Magic,79,17251,Amway Center
+Sun Dec 18 2016,Brooklyn Nets,107,Philadelphia 76ers,108,16460,Wells Fargo Center
+Sun Dec 18 2016,New Orleans Pelicans,100,San Antonio Spurs,113,18615,AT&T Center
+Mon Dec 19 2016,Washington Wizards,105,Indiana Pacers,107,17686,Bankers Life Fieldhouse
+Mon Dec 19 2016,Detroit Pistons,82,Chicago Bulls,113,21400,United Center
+Mon Dec 19 2016,Phoenix Suns,108,Minnesota Timberwolves,115,12008,Target Center
+Mon Dec 19 2016,Atlanta Hawks,110,Oklahoma City Thunder,108,18203,Chesapeake Energy Arena
+Mon Dec 19 2016,Dallas Mavericks,107,Denver Nuggets,117,12581,Pepsi Center
+Tue Dec 20 2016,Los Angeles Lakers,113,Charlotte Hornets,117,19093,Spectrum Center
+Tue Dec 20 2016,New Orleans Pelicans,108,Philadelphia 76ers,93,16322,Wells Fargo Center
+Tue Dec 20 2016,Orlando Magic,136,Miami Heat,130,19600,AmericanAirlines Arena
+Tue Dec 20 2016,Indiana Pacers,111,New York Knicks,118,19812,Madison Square Garden (IV)
+Tue Dec 20 2016,Brooklyn Nets,104,Toronto Raptors,116,19800,Air Canada Centre
+Tue Dec 20 2016,San Antonio Spurs,102,Houston Rockets,100,18055,Toyota Center
+Tue Dec 20 2016,Boston Celtics,112,Memphis Grizzlies,109,16519,FedEx Forum
+Tue Dec 20 2016,Cleveland Cavaliers,114,Milwaukee Bucks,108,17053,BMO Harris Bradley Center
+Tue Dec 20 2016,Utah Jazz,74,Golden State Warriors,104,19596,Oracle Arena
+Tue Dec 20 2016,Denver Nuggets,102,Los Angeles Clippers,119,19060,STAPLES Center
+Tue Dec 20 2016,Portland Trail Blazers,121,Sacramento Kings,126,17608,Golden 1 Center
+Wed Dec 21 2016,Milwaukee Bucks,102,Cleveland Cavaliers,113,20562,Quicken Loans Arena
+Wed Dec 21 2016,Minnesota Timberwolves,92,Atlanta Hawks,84,17578,Philips Arena
+Wed Dec 21 2016,Memphis Grizzlies,98,Detroit Pistons,86,16033,The Palace of Auburn Hills
+Wed Dec 21 2016,Washington Wizards,107,Chicago Bulls,97,21358,United Center
+Wed Dec 21 2016,Oklahoma City Thunder,121,New Orleans Pelicans,110,16375,Smoothie King Center
+Wed Dec 21 2016,Houston Rockets,125,Phoenix Suns,111,18055,Talking Stick Resort Arena
+Wed Dec 21 2016,Sacramento Kings,94,Utah Jazz,93,19195,Vivint Smart Home Arena
+Wed Dec 21 2016,Dallas Mavericks,96,Portland Trail Blazers,95,19393,Moda Center
+Thu Dec 22 2016,Boston Celtics,109,Indiana Pacers,102,17577,Bankers Life Fieldhouse
+Thu Dec 22 2016,Golden State Warriors,117,Brooklyn Nets,101,17732,Barclays Center
+Thu Dec 22 2016,Orlando Magic,95,New York Knicks,106,19812,Madison Square Garden (IV)
+Thu Dec 22 2016,Los Angeles Lakers,107,Miami Heat,115,19712,AmericanAirlines Arena
+Thu Dec 22 2016,San Antonio Spurs,101,Los Angeles Clippers,106,19060,STAPLES Center
+Fri Dec 23 2016,Chicago Bulls,91,Charlotte Hornets,103,19249,Spectrum Center
+Fri Dec 23 2016,Los Angeles Lakers,90,Orlando Magic,109,18846,Amway Center
+Fri Dec 23 2016,Oklahoma City Thunder,117,Boston Celtics,112,18624,TD Garden
+Fri Dec 23 2016,Brooklyn Nets,99,Cleveland Cavaliers,119,20562,Quicken Loans Arena
+Fri Dec 23 2016,Golden State Warriors,119,Detroit Pistons,113,21012,The Palace of Auburn Hills
+Fri Dec 23 2016,Houston Rockets,109,Memphis Grizzlies,115,17454,FedEx Forum
+Fri Dec 23 2016,Washington Wizards,96,Milwaukee Bucks,123,15921,BMO Harris Bradley Center
+Fri Dec 23 2016,Sacramento Kings,109,Minnesota Timberwolves,105,13288,Target Center
+Fri Dec 23 2016,Miami Heat,87,New Orleans Pelicans,91,16322,Smoothie King Center
+Fri Dec 23 2016,Atlanta Hawks,109,Denver Nuggets,108,13823,Pepsi Center
+Fri Dec 23 2016,Philadelphia 76ers,116,Phoenix Suns,123,16535,Talking Stick Resort Arena
+Fri Dec 23 2016,Toronto Raptors,104,Utah Jazz,98,19911,Vivint Smart Home Arena
+Fri Dec 23 2016,San Antonio Spurs,110,Portland Trail Blazers,90,19393,Moda Center
+Fri Dec 23 2016,Dallas Mavericks,90,Los Angeles Clippers,88,19060,STAPLES Center
+Sun Dec 25 2016,Boston Celtics,119,New York Knicks,114,19812,Madison Square Garden (IV)
+Sun Dec 25 2016,Golden State Warriors,108,Cleveland Cavaliers,109,20562,Quicken Loans Arena
+Sun Dec 25 2016,Chicago Bulls,100,San Antonio Spurs,119,18428,AT&T Center
+Sun Dec 25 2016,Minnesota Timberwolves,100,Oklahoma City Thunder,112,18203,Chesapeake Energy Arena
+Sun Dec 25 2016,Los Angeles Clippers,102,Los Angeles Lakers,111,18997,STAPLES Center
+Mon Dec 26 2016,Memphis Grizzlies,102,Orlando Magic,112,17104,Amway Center
+Mon Dec 26 2016,Milwaukee Bucks,102,Washington Wizards,107,15773,Verizon Center
+Mon Dec 26 2016,Charlotte Hornets,118,Brooklyn Nets,120,17732,Barclays Center
+Mon Dec 26 2016,Cleveland Cavaliers,90,Detroit Pistons,106,18123,The Palace of Auburn Hills
+Mon Dec 26 2016,Indiana Pacers,85,Chicago Bulls,90,21922,United Center
+Mon Dec 26 2016,Phoenix Suns,115,Houston Rockets,131,18055,Toyota Center
+Mon Dec 26 2016,Atlanta Hawks,90,Minnesota Timberwolves,104,15617,Target Center
+Mon Dec 26 2016,Dallas Mavericks,104,New Orleans Pelicans,111,15764,Smoothie King Center
+Mon Dec 26 2016,Toronto Raptors,95,Portland Trail Blazers,91,19393,Moda Center
+Mon Dec 26 2016,Denver Nuggets,106,Los Angeles Clippers,102,19060,STAPLES Center
+Mon Dec 26 2016,Philadelphia 76ers,100,Sacramento Kings,102,17608,Golden 1 Center
+Tue Dec 27 2016,Memphis Grizzlies,103,Boston Celtics,113,18624,TD Garden
+Tue Dec 27 2016,Oklahoma City Thunder,106,Miami Heat,94,19977,AmericanAirlines Arena
+Tue Dec 27 2016,Houston Rockets,123,Dallas Mavericks,107,20425,American Airlines Center
+Tue Dec 27 2016,Utah Jazz,102,Los Angeles Lakers,100,18997,STAPLES Center
+Wed Dec 28 2016,Charlotte Hornets,120,Orlando Magic,101,18273,Amway Center
+Wed Dec 28 2016,Indiana Pacers,105,Washington Wizards,111,16172,Verizon Center
+Wed Dec 28 2016,New York Knicks,98,Atlanta Hawks,102,19066,Philips Arena
+Wed Dec 28 2016,Milwaukee Bucks,119,Detroit Pistons,94,17222,The Palace of Auburn Hills
+Wed Dec 28 2016,Brooklyn Nets,99,Chicago Bulls,101,21957,United Center
+Wed Dec 28 2016,Los Angeles Clippers,98,New Orleans Pelicans,102,16647,Smoothie King Center
+Wed Dec 28 2016,Phoenix Suns,98,San Antonio Spurs,119,18418,AT&T Center
+Wed Dec 28 2016,Minnesota Timberwolves,103,Denver Nuggets,105,15093,Pepsi Center
+Wed Dec 28 2016,Sacramento Kings,89,Portland Trail Blazers,102,19665,Moda Center
+Wed Dec 28 2016,Toronto Raptors,111,Golden State Warriors,121,19596,Oracle Arena
+Thu Dec 29 2016,Miami Heat,82,Charlotte Hornets,91,19471,Spectrum Center
+Thu Dec 29 2016,Boston Celtics,118,Cleveland Cavaliers,124,20562,Quicken Loans Arena
+Thu Dec 29 2016,Oklahoma City Thunder,80,Memphis Grizzlies,114,18119,FedEx Forum
+Thu Dec 29 2016,Toronto Raptors,91,Phoenix Suns,99,18055,Talking Stick Resort Arena
+Thu Dec 29 2016,Philadelphia 76ers,83,Utah Jazz,100,19911,Vivint Smart Home Arena
+Thu Dec 29 2016,Dallas Mavericks,101,Los Angeles Lakers,89,18997,STAPLES Center
+Fri Dec 30 2016,Chicago Bulls,101,Indiana Pacers,111,17923,Bankers Life Fieldhouse
+Fri Dec 30 2016,Brooklyn Nets,95,Washington Wizards,118,16461,Verizon Center
+Fri Dec 30 2016,Miami Heat,114,Boston Celtics,117,18624,TD Garden
+Fri Dec 30 2016,Detroit Pistons,98,Atlanta Hawks,105,19009,Philips Arena
+Fri Dec 30 2016,Los Angeles Clippers,116,Houston Rockets,140,18055,Toyota Center
+Fri Dec 30 2016,Milwaukee Bucks,99,Minnesota Timberwolves,116,17779,Target Center
+Fri Dec 30 2016,New York Knicks,92,New Orleans Pelicans,104,18124,Smoothie King Center
+Fri Dec 30 2016,Portland Trail Blazers,94,San Antonio Spurs,110,18418,AT&T Center
+Fri Dec 30 2016,Philadelphia 76ers,124,Denver Nuggets,122,13619,Pepsi Center
+Fri Dec 30 2016,Dallas Mavericks,99,Golden State Warriors,108,19596,Oracle Arena
+Sat Dec 31 2016,Memphis Grizzlies,112,Sacramento Kings,98,17608,Golden 1 Center
+Sat Dec 31 2016,Milwaukee Bucks,116,Chicago Bulls,96,21838,United Center
+Sat Dec 31 2016,Cleveland Cavaliers,121,Charlotte Hornets,109,19519,Spectrum Center
+Sat Dec 31 2016,New York Knicks,122,Houston Rockets,129,18055,Toyota Center
+Sat Dec 31 2016,Los Angeles Clippers,88,Oklahoma City Thunder,114,18203,Chesapeake Energy Arena
+Sat Dec 31 2016,Phoenix Suns,86,Utah Jazz,91,19911,Vivint Smart Home Arena
+Sun Jan 1 2017,San Antonio Spurs,112,Atlanta Hawks,114,18088,Philips Arena
+Sun Jan 1 2017,Orlando Magic,104,Indiana Pacers,117,17530,Bankers Life Fieldhouse
+Sun Jan 1 2017,Detroit Pistons,107,Miami Heat,98,19844,AmericanAirlines Arena
+Sun Jan 1 2017,Portland Trail Blazers,95,Minnesota Timberwolves,89,15804,Target Center
+Sun Jan 1 2017,Toronto Raptors,123,Los Angeles Lakers,114,18997,STAPLES Center
+Mon Jan 2 2017,New Orleans Pelicans,82,Cleveland Cavaliers,90,20562,Quicken Loans Arena
+Mon Jan 2 2017,Oklahoma City Thunder,94,Milwaukee Bucks,98,17423,BMO Harris Bradley Center
+Mon Jan 2 2017,Utah Jazz,101,Brooklyn Nets,89,15634,Barclays Center
+Mon Jan 2 2017,Orlando Magic,115,New York Knicks,103,19812,Madison Square Garden (IV)
+Mon Jan 2 2017,Charlotte Hornets,111,Chicago Bulls,118,21612,United Center
+Mon Jan 2 2017,Washington Wizards,91,Houston Rockets,101,16569,Toyota Center
+Mon Jan 2 2017,Denver Nuggets,119,Golden State Warriors,127,19596,Oracle Arena
+Mon Jan 2 2017,Phoenix Suns,98,Los Angeles Clippers,109,19060,STAPLES Center
+Tue Jan 3 2017,Minnesota Timberwolves,91,Philadelphia 76ers,93,17124,Wells Fargo Center
+Tue Jan 3 2017,Utah Jazz,104,Boston Celtics,115,18624,TD Garden
+Tue Jan 3 2017,Indiana Pacers,121,Detroit Pistons,116,13435,The Palace of Auburn Hills
+Tue Jan 3 2017,Washington Wizards,105,Dallas Mavericks,113,19318,American Airlines Center
+Tue Jan 3 2017,Toronto Raptors,82,San Antonio Spurs,110,18418,AT&T Center
+Tue Jan 3 2017,Sacramento Kings,120,Denver Nuggets,113,11018,Pepsi Center
+Tue Jan 3 2017,Miami Heat,90,Phoenix Suns,99,16772,Talking Stick Resort Arena
+Tue Jan 3 2017,Memphis Grizzlies,102,Los Angeles Lakers,116,18997,STAPLES Center
+Wed Jan 4 2017,Oklahoma City Thunder,112,Charlotte Hornets,123,18418,Spectrum Center
+Wed Jan 4 2017,Atlanta Hawks,111,Orlando Magic,92,18846,Amway Center
+Wed Jan 4 2017,Milwaukee Bucks,105,New York Knicks,104,19812,Madison Square Garden (IV)
+Wed Jan 4 2017,Chicago Bulls,106,Cleveland Cavaliers,94,20562,Quicken Loans Arena
+Wed Jan 4 2017,Portland Trail Blazers,117,Golden State Warriors,125,19596,Oracle Arena
+Wed Jan 4 2017,Memphis Grizzlies,106,Los Angeles Clippers,115,19060,STAPLES Center
+Wed Jan 4 2017,Miami Heat,107,Sacramento Kings,102,17608,Golden 1 Center
+Thu Jan 5 2017,Brooklyn Nets,109,Indiana Pacers,121,16421,Bankers Life Fieldhouse
+Thu Jan 5 2017,Charlotte Hornets,114,Detroit Pistons,115,13723,The Palace of Auburn Hills
+Thu Jan 5 2017,Utah Jazz,93,Toronto Raptors,101,19800,Air Canada Centre
+Thu Jan 5 2017,Oklahoma City Thunder,116,Houston Rockets,118,18055,Toyota Center
+Thu Jan 5 2017,Atlanta Hawks,99,New Orleans Pelicans,94,15003,Smoothie King Center
+Thu Jan 5 2017,Phoenix Suns,102,Dallas Mavericks,95,19570,American Airlines Center
+Thu Jan 5 2017,San Antonio Spurs,127,Denver Nuggets,99,14391,Pepsi Center
+Thu Jan 5 2017,Los Angeles Lakers,109,Portland Trail Blazers,118,19403,Moda Center
+Fri Jan 6 2017,Houston Rockets,100,Orlando Magic,93,19272,Amway Center
+Fri Jan 6 2017,Minnesota Timberwolves,105,Washington Wizards,112,18686,Verizon Center
+Fri Jan 6 2017,Philadelphia 76ers,106,Boston Celtics,110,18624,TD Garden
+Fri Jan 6 2017,Cleveland Cavaliers,116,Brooklyn Nets,108,17732,Barclays Center
+Fri Jan 6 2017,New York Knicks,116,Milwaukee Bucks,111,18717,BMO Harris Bradley Center
+Fri Jan 6 2017,Memphis Grizzlies,128,Golden State Warriors,119,19596,Oracle Arena
+Fri Jan 6 2017,Miami Heat,100,Los Angeles Lakers,127,18997,STAPLES Center
+Fri Jan 6 2017,Los Angeles Clippers,106,Sacramento Kings,98,17608,Golden 1 Center
+Sat Jan 7 2017,New York Knicks,109,Indiana Pacers,123,17367,Bankers Life Fieldhouse
+Sat Jan 7 2017,New Orleans Pelicans,108,Boston Celtics,117,18624,TD Garden
+Sat Jan 7 2017,Toronto Raptors,118,Chicago Bulls,123,21195,United Center
+Sat Jan 7 2017,Utah Jazz,94,Minnesota Timberwolves,92,13945,Target Center
+Sat Jan 7 2017,Denver Nuggets,106,Oklahoma City Thunder,121,18203,Chesapeake Energy Arena
+Sat Jan 7 2017,Atlanta Hawks,97,Dallas Mavericks,82,19655,American Airlines Center
+Sat Jan 7 2017,Charlotte Hornets,85,San Antonio Spurs,102,18418,AT&T Center
+Sun Jan 8 2017,Philadelphia 76ers,105,Brooklyn Nets,95,16123,Barclays Center
+Sun Jan 8 2017,Washington Wizards,107,Milwaukee Bucks,101,15311,BMO Harris Bradley Center
+Sun Jan 8 2017,Miami Heat,86,Los Angeles Clippers,98,19060,STAPLES Center
+Sun Jan 8 2017,Houston Rockets,129,Toronto Raptors,122,19800,Air Canada Centre
+Sun Jan 8 2017,Utah Jazz,79,Memphis Grizzlies,88,16112,FedEx Forum
+Sun Jan 8 2017,Cleveland Cavaliers,120,Phoenix Suns,116,18055,Talking Stick Resort Arena
+Sun Jan 8 2017,Detroit Pistons,125,Portland Trail Blazers,124,13506,Moda Center
+Sun Jan 8 2017,Golden State Warriors,117,Sacramento Kings,106,17608,Golden 1 Center
+Sun Jan 8 2017,Orlando Magic,95,Los Angeles Lakers,111,18997,STAPLES Center
+Mon Jan 9 2017,New Orleans Pelicans,110,New York Knicks,96,19812,Madison Square Garden (IV)
+Mon Jan 9 2017,Oklahoma City Thunder,109,Chicago Bulls,94,21923,United Center
+Mon Jan 9 2017,Dallas Mavericks,92,Minnesota Timberwolves,101,9625,Target Center
+Tue Jan 10 2017,Chicago Bulls,99,Washington Wizards,101,14361,Verizon Center
+Tue Jan 10 2017,Atlanta Hawks,117,Brooklyn Nets,97,13279,Barclays Center
+Tue Jan 10 2017,Boston Celtics,106,Toronto Raptors,114,19800,Air Canada Centre
+Tue Jan 10 2017,Charlotte Hornets,114,Houston Rockets,121,16196,Toyota Center
+Tue Jan 10 2017,Milwaukee Bucks,109,San Antonio Spurs,107,18418,AT&T Center
+Tue Jan 10 2017,Cleveland Cavaliers,92,Utah Jazz,100,19911,Vivint Smart Home Arena
+Tue Jan 10 2017,Miami Heat,95,Golden State Warriors,107,19596,Oracle Arena
+Tue Jan 10 2017,Portland Trail Blazers,108,Los Angeles Lakers,87,18483,STAPLES Center
+Tue Jan 10 2017,Detroit Pistons,94,Sacramento Kings,100,17608,Golden 1 Center
+Wed Jan 11 2017,New York Knicks,97,Philadelphia 76ers,98,18755,Wells Fargo Center
+Wed Jan 11 2017,Washington Wizards,108,Boston Celtics,117,18624,TD Garden
+Wed Jan 11 2017,Houston Rockets,105,Minnesota Timberwolves,119,13858,Target Center
+Wed Jan 11 2017,Memphis Grizzlies,95,Oklahoma City Thunder,103,18203,Chesapeake Energy Arena
+Wed Jan 11 2017,Orlando Magic,96,Los Angeles Clippers,105,19060,STAPLES Center
+Wed Jan 11 2017,Cleveland Cavaliers,86,Portland Trail Blazers,102,19393,Moda Center
+Thu Jan 12 2017,Indiana Pacers,112,Denver Nuggets,140,18689,The O2 Arena
+Thu Jan 12 2017,New Orleans Pelicans,104,Brooklyn Nets,95,14352,Barclays Center
+Thu Jan 12 2017,Chicago Bulls,89,New York Knicks,104,19812,Madison Square Garden (IV)
+Thu Jan 12 2017,Los Angeles Lakers,94,San Antonio Spurs,134,18418,AT&T Center
+Thu Jan 12 2017,Dallas Mavericks,113,Phoenix Suns,108,19874,Mexico City Arena
+Thu Jan 12 2017,Detroit Pistons,107,Golden State Warriors,127,19596,Oracle Arena
+Fri Jan 13 2017,Charlotte Hornets,93,Philadelphia 76ers,102,18215,Wells Fargo Center
+Fri Jan 13 2017,Brooklyn Nets,113,Toronto Raptors,132,19800,Air Canada Centre
+Fri Jan 13 2017,Boston Celtics,103,Atlanta Hawks,101,18216,Philips Arena
+Fri Jan 13 2017,Memphis Grizzlies,110,Houston Rockets,105,18055,Toyota Center
+Fri Jan 13 2017,Miami Heat,108,Milwaukee Bucks,116,17483,BMO Harris Bradley Center
+Fri Jan 13 2017,Oklahoma City Thunder,86,Minnesota Timberwolves,96,16644,Target Center
+Fri Jan 13 2017,Orlando Magic,115,Portland Trail Blazers,109,19344,Moda Center
+Fri Jan 13 2017,Cleveland Cavaliers,120,Sacramento Kings,108,17608,Golden 1 Center
+Fri Jan 13 2017,Detroit Pistons,77,Utah Jazz,110,19911,Vivint Smart Home Arena
+Sat Jan 14 2017,Los Angeles Lakers,97,Los Angeles Clippers,113,19060,STAPLES Center
+Sat Jan 14 2017,New Orleans Pelicans,99,Chicago Bulls,107,21916,United Center
+Sat Jan 14 2017,San Antonio Spurs,105,Phoenix Suns,108,20532,Mexico City Arena
+Sat Jan 14 2017,Philadelphia 76ers,93,Washington Wizards,109,17880,Verizon Center
+Sat Jan 14 2017,Orlando Magic,107,Utah Jazz,114,19911,Vivint Smart Home Arena
+Sun Jan 15 2017,Minnesota Timberwolves,87,Dallas Mavericks,98,19655,American Airlines Center
+Sun Jan 15 2017,Milwaukee Bucks,98,Atlanta Hawks,111,14231,Philips Arena
+Sun Jan 15 2017,New York Knicks,101,Toronto Raptors,116,19800,Air Canada Centre
+Sun Jan 15 2017,Houston Rockets,137,Brooklyn Nets,112,17732,Barclays Center
+Sun Jan 15 2017,Chicago Bulls,108,Memphis Grizzlies,104,18119,FedEx Forum
+Sun Jan 15 2017,Oklahoma City Thunder,122,Sacramento Kings,118,17608,Golden 1 Center
+Sun Jan 15 2017,Detroit Pistons,102,Los Angeles Lakers,97,18997,STAPLES Center
+Mon Jan 16 2017,Atlanta Hawks,108,New York Knicks,107,19812,Madison Square Garden (IV)
+Mon Jan 16 2017,Portland Trail Blazers,101,Washington Wizards,120,17395,Verizon Center
+Mon Jan 16 2017,Philadelphia 76ers,113,Milwaukee Bucks,104,13261,BMO Harris Bradley Center
+Mon Jan 16 2017,New Orleans Pelicans,95,Indiana Pacers,98,15525,Bankers Life Fieldhouse
+Mon Jan 16 2017,Orlando Magic,112,Denver Nuggets,125,11217,Pepsi Center
+Mon Jan 16 2017,Charlotte Hornets,98,Boston Celtics,108,18624,TD Garden
+Mon Jan 16 2017,Cleveland Cavaliers,91,Golden State Warriors,126,19596,Oracle Arena
+Mon Jan 16 2017,Utah Jazz,106,Phoenix Suns,101,16767,Talking Stick Resort Arena
+Mon Jan 16 2017,Oklahoma City Thunder,98,Los Angeles Clippers,120,19060,STAPLES Center
+Tue Jan 17 2017,Toronto Raptors,119,Brooklyn Nets,109,12874,Barclays Center
+Tue Jan 17 2017,Houston Rockets,103,Miami Heat,109,19600,AmericanAirlines Arena
+Tue Jan 17 2017,Dallas Mavericks,99,Chicago Bulls,98,21294,United Center
+Tue Jan 17 2017,Minnesota Timberwolves,114,San Antonio Spurs,122,18418,AT&T Center
+Tue Jan 17 2017,Denver Nuggets,127,Los Angeles Lakers,121,18412,STAPLES Center
+Wed Jan 18 2017,Portland Trail Blazers,85,Charlotte Hornets,107,15451,Spectrum Center
+Wed Jan 18 2017,Toronto Raptors,89,Philadelphia 76ers,94,17223,Wells Fargo Center
+Wed Jan 18 2017,Memphis Grizzlies,101,Washington Wizards,104,15079,Verizon Center
+Wed Jan 18 2017,New York Knicks,117,Boston Celtics,106,18624,TD Garden
+Wed Jan 18 2017,Atlanta Hawks,95,Detroit Pistons,118,15159,The Palace of Auburn Hills
+Wed Jan 18 2017,Milwaukee Bucks,92,Houston Rockets,111,15782,Toyota Center
+Wed Jan 18 2017,Orlando Magic,98,New Orleans Pelicans,118,15818,Smoothie King Center
+Wed Jan 18 2017,Oklahoma City Thunder,100,Golden State Warriors,121,19596,Oracle Arena
+Wed Jan 18 2017,Indiana Pacers,106,Sacramento Kings,100,17608,Golden 1 Center
+Thu Jan 19 2017,Phoenix Suns,103,Cleveland Cavaliers,118,20562,Quicken Loans Arena
+Thu Jan 19 2017,Dallas Mavericks,95,Miami Heat,99,19600,AmericanAirlines Arena
+Thu Jan 19 2017,Washington Wizards,113,New York Knicks,110,19812,Madison Square Garden (IV)
+Thu Jan 19 2017,Denver Nuggets,104,San Antonio Spurs,118,18418,AT&T Center
+Thu Jan 19 2017,Minnesota Timberwolves,104,Los Angeles Clippers,101,19060,STAPLES Center
+Fri Jan 20 2017,Toronto Raptors,78,Charlotte Hornets,113,18378,Spectrum Center
+Fri Jan 20 2017,Milwaukee Bucks,96,Orlando Magic,112,19307,Amway Center
+Fri Jan 20 2017,Portland Trail Blazers,92,Philadelphia 76ers,93,19476,Wells Fargo Center
+Fri Jan 20 2017,Chicago Bulls,93,Atlanta Hawks,102,16328,Philips Arena
+Fri Jan 20 2017,Golden State Warriors,125,Houston Rockets,108,18055,Toyota Center
+Fri Jan 20 2017,Sacramento Kings,91,Memphis Grizzlies,107,16991,FedEx Forum
+Fri Jan 20 2017,Brooklyn Nets,143,New Orleans Pelicans,114,17004,Smoothie King Center
+Fri Jan 20 2017,Utah Jazz,112,Dallas Mavericks,107,19421,American Airlines Center
+Fri Jan 20 2017,Indiana Pacers,95,Los Angeles Lakers,108,18997,STAPLES Center
+Sat Jan 21 2017,Portland Trail Blazers,127,Boston Celtics,123,18624,TD Garden
+Sat Jan 21 2017,Washington Wizards,112,Detroit Pistons,113,18231,The Palace of Auburn Hills
+Sat Jan 21 2017,Philadelphia 76ers,93,Atlanta Hawks,110,15116,Philips Arena
+Sat Jan 21 2017,Brooklyn Nets,105,Charlotte Hornets,112,18583,Spectrum Center
+Sat Jan 21 2017,Milwaukee Bucks,97,Miami Heat,109,19600,AmericanAirlines Arena
+Sat Jan 21 2017,Phoenix Suns,107,New York Knicks,105,19812,Madison Square Garden (IV)
+Sat Jan 21 2017,Houston Rockets,119,Memphis Grizzlies,95,18119,FedEx Forum
+Sat Jan 21 2017,San Antonio Spurs,118,Cleveland Cavaliers,115,20562,Quicken Loans Arena
+Sat Jan 21 2017,Sacramento Kings,99,Chicago Bulls,102,21606,United Center
+Sat Jan 21 2017,Los Angeles Clippers,98,Denver Nuggets,123,16056,Pepsi Center
+Sat Jan 21 2017,Indiana Pacers,100,Utah Jazz,109,19911,Vivint Smart Home Arena
+Sun Jan 22 2017,Golden State Warriors,118,Orlando Magic,98,18846,Amway Center
+Sun Jan 22 2017,Los Angeles Lakers,73,Dallas Mavericks,122,19484,American Airlines Center
+Sun Jan 22 2017,Phoenix Suns,115,Toronto Raptors,103,19800,Air Canada Centre
+Sun Jan 22 2017,Denver Nuggets,108,Minnesota Timberwolves,111,12788,Target Center
+Mon Jan 23 2017,Washington Wizards,109,Charlotte Hornets,99,15285,Spectrum Center
+Mon Jan 23 2017,Los Angeles Clippers,115,Atlanta Hawks,105,12853,Philips Arena
+Mon Jan 23 2017,San Antonio Spurs,112,Brooklyn Nets,86,16643,Barclays Center
+Mon Jan 23 2017,Sacramento Kings,109,Detroit Pistons,104,14017,The Palace of Auburn Hills
+Mon Jan 23 2017,Golden State Warriors,102,Miami Heat,105,19600,AmericanAirlines Arena
+Mon Jan 23 2017,New York Knicks,109,Indiana Pacers,103,16015,Bankers Life Fieldhouse
+Mon Jan 23 2017,Houston Rockets,114,Milwaukee Bucks,127,14016,BMO Harris Bradley Center
+Mon Jan 23 2017,Cleveland Cavaliers,122,New Orleans Pelicans,124,17758,Smoothie King Center
+Mon Jan 23 2017,Oklahoma City Thunder,97,Utah Jazz,95,19911,Vivint Smart Home Arena
+Tue Jan 24 2017,Chicago Bulls,100,Orlando Magic,92,18846,Amway Center
+Tue Jan 24 2017,Los Angeles Clippers,110,Philadelphia 76ers,121,17591,Wells Fargo Center
+Tue Jan 24 2017,San Antonio Spurs,108,Toronto Raptors,106,19800,Air Canada Centre
+Tue Jan 24 2017,Boston Celtics,108,Washington Wizards,123,16387,Verizon Center
+Tue Jan 24 2017,Utah Jazz,93,Denver Nuggets,103,10867,Pepsi Center
+Tue Jan 24 2017,Minnesota Timberwolves,112,Phoenix Suns,111,17241,Talking Stick Resort Arena
+Wed Jan 25 2017,Sacramento Kings,116,Cleveland Cavaliers,112,20562,Quicken Loans Arena
+Wed Jan 25 2017,Houston Rockets,109,Boston Celtics,120,18624,TD Garden
+Wed Jan 25 2017,Miami Heat,109,Brooklyn Nets,106,14929,Barclays Center
+Wed Jan 25 2017,Atlanta Hawks,119,Chicago Bulls,114,21445,United Center
+Wed Jan 25 2017,Golden State Warriors,113,Charlotte Hornets,103,19639,Spectrum Center
+Wed Jan 25 2017,Toronto Raptors,99,Memphis Grizzlies,101,15904,FedEx Forum
+Wed Jan 25 2017,Philadelphia 76ers,114,Milwaukee Bucks,109,13663,BMO Harris Bradley Center
+Wed Jan 25 2017,Oklahoma City Thunder,114,New Orleans Pelicans,105,15277,Smoothie King Center
+Wed Jan 25 2017,New York Knicks,95,Dallas Mavericks,103,19750,American Airlines Center
+Wed Jan 25 2017,Los Angeles Lakers,98,Portland Trail Blazers,105,19393,Moda Center
+Thu Jan 26 2017,Indiana Pacers,109,Minnesota Timberwolves,103,14862,Target Center
+Thu Jan 26 2017,Dallas Mavericks,98,Oklahoma City Thunder,109,18203,Chesapeake Energy Arena
+Thu Jan 26 2017,Phoenix Suns,120,Denver Nuggets,127,12231,Pepsi Center
+Thu Jan 26 2017,Los Angeles Lakers,88,Utah Jazz,96,19911,Vivint Smart Home Arena
+Fri Jan 27 2017,Sacramento Kings,111,Indiana Pacers,115,17522,Bankers Life Fieldhouse
+Fri Jan 27 2017,Orlando Magic,98,Boston Celtics,128,18624,TD Garden
+Fri Jan 27 2017,Brooklyn Nets,116,Cleveland Cavaliers,124,20562,Quicken Loans Arena
+Fri Jan 27 2017,Charlotte Hornets,107,New York Knicks,110,19812,Madison Square Garden (IV)
+Fri Jan 27 2017,Milwaukee Bucks,86,Toronto Raptors,102,19800,Air Canada Centre
+Fri Jan 27 2017,Washington Wizards,112,Atlanta Hawks,86,16968,Philips Arena
+Fri Jan 27 2017,Miami Heat,100,Chicago Bulls,88,22082,United Center
+Fri Jan 27 2017,San Antonio Spurs,103,New Orleans Pelicans,119,17757,Smoothie King Center
+Fri Jan 27 2017,Houston Rockets,123,Philadelphia 76ers,118,20588,Wells Fargo Center
+Fri Jan 27 2017,Memphis Grizzlies,109,Portland Trail Blazers,112,19558,Moda Center
+Sat Jan 28 2017,Sacramento Kings,109,Charlotte Hornets,106,18597,Spectrum Center
+Sat Jan 28 2017,Detroit Pistons,103,Miami Heat,116,19600,AmericanAirlines Arena
+Sat Jan 28 2017,Boston Celtics,112,Milwaukee Bucks,108,18717,BMO Harris Bradley Center
+Sat Jan 28 2017,Los Angeles Clippers,98,Golden State Warriors,144,19596,Oracle Arena
+Sat Jan 28 2017,Brooklyn Nets,109,Minnesota Timberwolves,129,14798,Target Center
+Sat Jan 28 2017,Denver Nuggets,123,Phoenix Suns,112,18055,Talking Stick Resort Arena
+Sat Jan 28 2017,Memphis Grizzlies,102,Utah Jazz,95,19911,Vivint Smart Home Arena
+Sun Jan 29 2017,New York Knicks,139,Atlanta Hawks,142,13643,Philips Arena
+Sun Jan 29 2017,Oklahoma City Thunder,91,Cleveland Cavaliers,107,20562,Quicken Loans Arena
+Sun Jan 29 2017,Houston Rockets,101,Indiana Pacers,120,17923,Bankers Life Fieldhouse
+Sun Jan 29 2017,Washington Wizards,107,New Orleans Pelicans,94,16779,Smoothie King Center
+Sun Jan 29 2017,Orlando Magic,114,Toronto Raptors,113,19800,Air Canada Centre
+Sun Jan 29 2017,Philadelphia 76ers,108,Chicago Bulls,121,21606,United Center
+Sun Jan 29 2017,Dallas Mavericks,105,San Antonio Spurs,101,18418,AT&T Center
+Sun Jan 29 2017,Golden State Warriors,113,Portland Trail Blazers,111,19393,Moda Center
+Mon Jan 30 2017,Sacramento Kings,119,Philadelphia 76ers,122,15840,Wells Fargo Center
+Mon Jan 30 2017,Brooklyn Nets,96,Miami Heat,104,19600,AmericanAirlines Arena
+Mon Jan 30 2017,Detroit Pistons,109,Boston Celtics,113,18188,TD Garden
+Mon Jan 30 2017,Orlando Magic,105,Minnesota Timberwolves,111,11124,Target Center
+Mon Jan 30 2017,Cleveland Cavaliers,97,Dallas Mavericks,104,20202,American Airlines Center
+Mon Jan 30 2017,Memphis Grizzlies,115,Phoenix Suns,96,16332,Talking Stick Resort Arena
+Tue Jan 31 2017,New Orleans Pelicans,106,Toronto Raptors,108,19800,Air Canada Centre
+Tue Jan 31 2017,New York Knicks,101,Washington Wizards,117,16683,Verizon Center
+Tue Jan 31 2017,Sacramento Kings,83,Houston Rockets,105,15187,Toyota Center
+Tue Jan 31 2017,Oklahoma City Thunder,94,San Antonio Spurs,108,18418,AT&T Center
+Tue Jan 31 2017,Charlotte Hornets,98,Portland Trail Blazers,115,19393,Moda Center
+Tue Jan 31 2017,Denver Nuggets,116,Los Angeles Lakers,120,18997,STAPLES Center
+Wed Feb 1 2017,Minnesota Timberwolves,97,Cleveland Cavaliers,125,20562,Quicken Loans Arena
+Wed Feb 1 2017,Indiana Pacers,98,Orlando Magic,88,16662,Amway Center
+Wed Feb 1 2017,Toronto Raptors,104,Boston Celtics,109,18624,TD Garden
+Wed Feb 1 2017,New York Knicks,95,Brooklyn Nets,90,17732,Barclays Center
+Wed Feb 1 2017,New Orleans Pelicans,98,Detroit Pistons,118,14262,The Palace of Auburn Hills
+Wed Feb 1 2017,Atlanta Hawks,93,Miami Heat,116,19600,AmericanAirlines Arena
+Wed Feb 1 2017,Philadelphia 76ers,95,Dallas Mavericks,113,19263,American Airlines Center
+Wed Feb 1 2017,Memphis Grizzlies,119,Denver Nuggets,99,12020,Pepsi Center
+Wed Feb 1 2017,Los Angeles Clippers,124,Phoenix Suns,114,16191,Talking Stick Resort Arena
+Wed Feb 1 2017,Milwaukee Bucks,88,Utah Jazz,104,19694,Vivint Smart Home Arena
+Wed Feb 1 2017,Chicago Bulls,128,Oklahoma City Thunder,100,18203,Chesapeake Energy Arena
+Wed Feb 1 2017,Charlotte Hornets,111,Golden State Warriors,126,19596,Oracle Arena
+Thu Feb 2 2017,Los Angeles Lakers,108,Washington Wizards,116,16473,Verizon Center
+Thu Feb 2 2017,Atlanta Hawks,113,Houston Rockets,108,15602,Toyota Center
+Thu Feb 2 2017,Philadelphia 76ers,86,San Antonio Spurs,102,18418,AT&T Center
+Thu Feb 2 2017,Golden State Warriors,133,Los Angeles Clippers,120,19385,STAPLES Center
+Fri Feb 3 2017,Toronto Raptors,94,Orlando Magic,102,17141,Amway Center
+Fri Feb 3 2017,Indiana Pacers,106,Brooklyn Nets,97,14557,Barclays Center
+Fri Feb 3 2017,Minnesota Timberwolves,108,Detroit Pistons,116,16934,The Palace of Auburn Hills
+Fri Feb 3 2017,Los Angeles Lakers,107,Boston Celtics,113,18624,TD Garden
+Fri Feb 3 2017,Chicago Bulls,117,Houston Rockets,121,18055,Toyota Center
+Fri Feb 3 2017,Memphis Grizzlies,102,Oklahoma City Thunder,114,18203,Chesapeake Energy Arena
+Fri Feb 3 2017,Milwaukee Bucks,117,Denver Nuggets,121,18792,Pepsi Center
+Fri Feb 3 2017,Dallas Mavericks,108,Portland Trail Blazers,104,19393,Moda Center
+Fri Feb 3 2017,Phoenix Suns,105,Sacramento Kings,103,17608,Golden 1 Center
+Sat Feb 4 2017,Orlando Magic,86,Atlanta Hawks,113,16691,Philips Arena
+Sat Feb 4 2017,Detroit Pistons,84,Indiana Pacers,105,17660,Bankers Life Fieldhouse
+Sat Feb 4 2017,New Orleans Pelicans,91,Washington Wizards,105,19651,Verizon Center
+Sat Feb 4 2017,Philadelphia 76ers,102,Miami Heat,125,19754,AmericanAirlines Arena
+Sat Feb 4 2017,Cleveland Cavaliers,111,New York Knicks,104,19812,Madison Square Garden (IV)
+Sat Feb 4 2017,Memphis Grizzlies,107,Minnesota Timberwolves,99,15081,Target Center
+Sat Feb 4 2017,Milwaukee Bucks,137,Phoenix Suns,112,17192,Talking Stick Resort Arena
+Sat Feb 4 2017,Denver Nuggets,97,San Antonio Spurs,121,18418,AT&T Center
+Sat Feb 4 2017,Charlotte Hornets,98,Utah Jazz,105,19911,Vivint Smart Home Arena
+Sat Feb 4 2017,Golden State Warriors,106,Sacramento Kings,109,17608,Golden 1 Center
+Sun Feb 5 2017,Toronto Raptors,103,Brooklyn Nets,95,14245,Barclays Center
+Sun Feb 5 2017,Los Angeles Clippers,102,Boston Celtics,107,18624,TD Garden
+Sun Feb 5 2017,Portland Trail Blazers,99,Oklahoma City Thunder,105,18203,Chesapeake Energy Arena
+Mon Feb 6 2017,Oklahoma City Thunder,90,Indiana Pacers,93,16123,Bankers Life Fieldhouse
+Mon Feb 6 2017,Los Angeles Lakers,121,New York Knicks,107,19812,Madison Square Garden (IV)
+Mon Feb 6 2017,Cleveland Cavaliers,140,Washington Wizards,135,20356,Verizon Center
+Mon Feb 6 2017,Utah Jazz,120,Atlanta Hawks,95,13126,Philips Arena
+Mon Feb 6 2017,Philadelphia 76ers,96,Detroit Pistons,113,14731,The Palace of Auburn Hills
+Mon Feb 6 2017,Los Angeles Clippers,109,Toronto Raptors,118,19800,Air Canada Centre
+Mon Feb 6 2017,Miami Heat,115,Minnesota Timberwolves,113,12502,Target Center
+Mon Feb 6 2017,Phoenix Suns,106,New Orleans Pelicans,111,15888,Smoothie King Center
+Mon Feb 6 2017,Dallas Mavericks,87,Denver Nuggets,110,13047,Pepsi Center
+Mon Feb 6 2017,San Antonio Spurs,74,Memphis Grizzlies,89,16708,FedEx Forum
+Mon Feb 6 2017,Chicago Bulls,112,Sacramento Kings,107,17608,Golden 1 Center
+Tue Feb 7 2017,Brooklyn Nets,107,Charlotte Hornets,111,15322,Spectrum Center
+Tue Feb 7 2017,Orlando Magic,104,Houston Rockets,128,15514,Toyota Center
+Tue Feb 7 2017,Portland Trail Blazers,114,Dallas Mavericks,113,19326,American Airlines Center
+Wed Feb 8 2017,Cleveland Cavaliers,132,Indiana Pacers,117,17580,Bankers Life Fieldhouse
+Wed Feb 8 2017,San Antonio Spurs,111,Philadelphia 76ers,103,19233,Wells Fargo Center
+Wed Feb 8 2017,Denver Nuggets,106,Atlanta Hawks,117,14222,Philips Arena
+Wed Feb 8 2017,Washington Wizards,114,Brooklyn Nets,110,13179,Barclays Center
+Wed Feb 8 2017,Los Angeles Lakers,102,Detroit Pistons,121,15121,The Palace of Auburn Hills
+Wed Feb 8 2017,Phoenix Suns,91,Memphis Grizzlies,110,16044,FedEx Forum
+Wed Feb 8 2017,Miami Heat,106,Milwaukee Bucks,88,14211,BMO Harris Bradley Center
+Wed Feb 8 2017,Toronto Raptors,109,Minnesota Timberwolves,112,13832,Target Center
+Wed Feb 8 2017,Utah Jazz,127,New Orleans Pelicans,94,14508,Smoothie King Center
+Wed Feb 8 2017,Los Angeles Clippers,119,New York Knicks,115,19812,Madison Square Garden (IV)
+Wed Feb 8 2017,Chicago Bulls,92,Golden State Warriors,123,19596,Oracle Arena
+Wed Feb 8 2017,Boston Celtics,92,Sacramento Kings,108,17608,Golden 1 Center
+Thu Feb 9 2017,Houston Rockets,107,Charlotte Hornets,95,16270,Spectrum Center
+Thu Feb 9 2017,Philadelphia 76ers,112,Orlando Magic,111,17829,Amway Center
+Thu Feb 9 2017,Cleveland Cavaliers,109,Oklahoma City Thunder,118,18203,Chesapeake Energy Arena
+Thu Feb 9 2017,Utah Jazz,105,Dallas Mavericks,112,19883,American Airlines Center
+Thu Feb 9 2017,Boston Celtics,120,Portland Trail Blazers,111,19393,Moda Center
+Fri Feb 10 2017,Miami Heat,108,Brooklyn Nets,99,15382,Barclays Center
+Fri Feb 10 2017,San Antonio Spurs,103,Detroit Pistons,92,17222,The Palace of Auburn Hills
+Fri Feb 10 2017,Denver Nuggets,131,New York Knicks,123,19812,Madison Square Garden (IV)
+Fri Feb 10 2017,Golden State Warriors,122,Memphis Grizzlies,107,18119,FedEx Forum
+Fri Feb 10 2017,Los Angeles Lakers,122,Milwaukee Bucks,114,16380,BMO Harris Bradley Center
+Fri Feb 10 2017,New Orleans Pelicans,122,Minnesota Timberwolves,106,16093,Target Center
+Fri Feb 10 2017,Indiana Pacers,107,Washington Wizards,112,19503,Verizon Center
+Fri Feb 10 2017,Chicago Bulls,97,Phoenix Suns,115,18055,Talking Stick Resort Arena
+Fri Feb 10 2017,Atlanta Hawks,107,Sacramento Kings,108,17608,Golden 1 Center
+Sat Feb 11 2017,Los Angeles Clippers,107,Charlotte Hornets,102,19483,Spectrum Center
+Sat Feb 11 2017,Milwaukee Bucks,116,Indiana Pacers,100,17923,Bankers Life Fieldhouse
+Sat Feb 11 2017,Denver Nuggets,109,Cleveland Cavaliers,125,20562,Quicken Loans Arena
+Sat Feb 11 2017,Miami Heat,109,Philadelphia 76ers,117,20698,Wells Fargo Center
+Sat Feb 11 2017,Golden State Warriors,130,Oklahoma City Thunder,114,18203,Chesapeake Energy Arena
+Sat Feb 11 2017,Orlando Magic,80,Dallas Mavericks,112,20052,American Airlines Center
+Sat Feb 11 2017,Phoenix Suns,102,Houston Rockets,133,18055,Toyota Center
+Sat Feb 11 2017,Boston Celtics,112,Utah Jazz,104,19911,Vivint Smart Home Arena
+Sun Feb 12 2017,Chicago Bulls,89,Minnesota Timberwolves,117,19356,Target Center
+Sun Feb 12 2017,San Antonio Spurs,90,New York Knicks,94,19812,Madison Square Garden (IV)
+Sun Feb 12 2017,Detroit Pistons,102,Toronto Raptors,101,19800,Air Canada Centre
+Sun Feb 12 2017,New Orleans Pelicans,99,Sacramento Kings,105,17608,Golden 1 Center
+Mon Feb 13 2017,Philadelphia 76ers,105,Charlotte Hornets,99,15775,Spectrum Center
+Mon Feb 13 2017,San Antonio Spurs,110,Indiana Pacers,106,15203,Bankers Life Fieldhouse
+Mon Feb 13 2017,Memphis Grizzlies,112,Brooklyn Nets,103,13597,Barclays Center
+Mon Feb 13 2017,Orlando Magic,116,Miami Heat,107,19600,AmericanAirlines Arena
+Mon Feb 13 2017,Detroit Pistons,89,Milwaukee Bucks,102,13397,BMO Harris Bradley Center
+Mon Feb 13 2017,Oklahoma City Thunder,98,Washington Wizards,120,20356,Verizon Center
+Mon Feb 13 2017,Boston Celtics,111,Dallas Mavericks,98,20159,American Airlines Center
+Mon Feb 13 2017,Golden State Warriors,110,Denver Nuggets,132,19941,Pepsi Center
+Mon Feb 13 2017,New Orleans Pelicans,110,Phoenix Suns,108,16321,Talking Stick Resort Arena
+Mon Feb 13 2017,Los Angeles Clippers,88,Utah Jazz,72,19521,Vivint Smart Home Arena
+Mon Feb 13 2017,Atlanta Hawks,109,Portland Trail Blazers,104,19475,Moda Center
+Tue Feb 14 2017,Toronto Raptors,94,Chicago Bulls,105,21220,United Center
+Tue Feb 14 2017,Cleveland Cavaliers,116,Minnesota Timberwolves,108,17738,Target Center
+Tue Feb 14 2017,Sacramento Kings,97,Los Angeles Lakers,96,19997,STAPLES Center
+Wed Feb 15 2017,Indiana Pacers,104,Cleveland Cavaliers,113,20562,Quicken Loans Arena
+Wed Feb 15 2017,San Antonio Spurs,107,Orlando Magic,79,17101,Amway Center
+Wed Feb 15 2017,Philadelphia 76ers,108,Boston Celtics,116,18624,TD Garden
+Wed Feb 15 2017,Milwaukee Bucks,129,Brooklyn Nets,125,16182,Barclays Center
+Wed Feb 15 2017,Dallas Mavericks,91,Detroit Pistons,98,13549,The Palace of Auburn Hills
+Wed Feb 15 2017,Charlotte Hornets,85,Toronto Raptors,90,19800,Air Canada Centre
+Wed Feb 15 2017,Miami Heat,117,Houston Rockets,109,16967,Toyota Center
+Wed Feb 15 2017,New Orleans Pelicans,95,Memphis Grizzlies,91,16145,FedEx Forum
+Wed Feb 15 2017,Minnesota Timberwolves,112,Denver Nuggets,99,13924,Pepsi Center
+Wed Feb 15 2017,Los Angeles Lakers,101,Phoenix Suns,137,18055,Talking Stick Resort Arena
+Wed Feb 15 2017,Portland Trail Blazers,88,Utah Jazz,111,19590,Vivint Smart Home Arena
+Wed Feb 15 2017,New York Knicks,105,Oklahoma City Thunder,116,18203,Chesapeake Energy Arena
+Wed Feb 15 2017,Sacramento Kings,86,Golden State Warriors,109,19596,Oracle Arena
+Wed Feb 15 2017,Atlanta Hawks,84,Los Angeles Clippers,99,19060,STAPLES Center
+Thu Feb 16 2017,Washington Wizards,111,Indiana Pacers,98,17233,Bankers Life Fieldhouse
+Thu Feb 16 2017,Boston Celtics,103,Chicago Bulls,104,21866,United Center
+Thu Feb 23 2017,Portland Trail Blazers,112,Orlando Magic,103,17487,Amway Center
+Thu Feb 23 2017,Charlotte Hornets,108,Detroit Pistons,114,14913,The Palace of Auburn Hills
+Thu Feb 23 2017,New York Knicks,104,Cleveland Cavaliers,119,20562,Quicken Loans Arena
+Thu Feb 23 2017,Houston Rockets,129,New Orleans Pelicans,99,18470,Smoothie King Center
+Thu Feb 23 2017,Los Angeles Clippers,113,Golden State Warriors,123,19596,Oracle Arena
+Thu Feb 23 2017,Denver Nuggets,100,Sacramento Kings,116,17608,Golden 1 Center
+Fri Feb 24 2017,Memphis Grizzlies,92,Indiana Pacers,102,17923,Bankers Life Fieldhouse
+Fri Feb 24 2017,Washington Wizards,112,Philadelphia 76ers,120,19277,Wells Fargo Center
+Fri Feb 24 2017,Miami Heat,108,Atlanta Hawks,90,18122,Philips Arena
+Fri Feb 24 2017,Phoenix Suns,121,Chicago Bulls,128,21641,United Center
+Fri Feb 24 2017,Utah Jazz,109,Milwaukee Bucks,95,16064,BMO Harris Bradley Center
+Fri Feb 24 2017,Dallas Mavericks,84,Minnesota Timberwolves,97,15948,Target Center
+Fri Feb 24 2017,Los Angeles Lakers,93,Oklahoma City Thunder,110,18203,Chesapeake Energy Arena
+Fri Feb 24 2017,Boston Celtics,97,Toronto Raptors,107,19800,Air Canada Centre
+Fri Feb 24 2017,Brooklyn Nets,109,Denver Nuggets,129,17143,Pepsi Center
+Fri Feb 24 2017,San Antonio Spurs,105,Los Angeles Clippers,97,19060,STAPLES Center
+Sat Feb 25 2017,Charlotte Hornets,99,Sacramento Kings,85,17608,Golden 1 Center
+Sat Feb 25 2017,Atlanta Hawks,86,Orlando Magic,105,18498,Amway Center
+Sat Feb 25 2017,Philadelphia 76ers,109,New York Knicks,110,19812,Madison Square Garden (IV)
+Sat Feb 25 2017,Indiana Pacers,95,Miami Heat,113,19600,AmericanAirlines Arena
+Sat Feb 25 2017,Chicago Bulls,117,Cleveland Cavaliers,99,20562,Quicken Loans Arena
+Sat Feb 25 2017,New Orleans Pelicans,83,Dallas Mavericks,96,20411,American Airlines Center
+Sat Feb 25 2017,Minnesota Timberwolves,130,Houston Rockets,142,18055,Toyota Center
+Sat Feb 25 2017,Brooklyn Nets,95,Golden State Warriors,112,19596,Oracle Arena
+Sun Feb 26 2017,San Antonio Spurs,119,Los Angeles Lakers,98,18997,STAPLES Center
+Sun Feb 26 2017,Phoenix Suns,96,Milwaukee Bucks,100,16051,BMO Harris Bradley Center
+Sun Feb 26 2017,Memphis Grizzlies,105,Denver Nuggets,98,18024,Pepsi Center
+Sun Feb 26 2017,Utah Jazz,102,Washington Wizards,92,19648,Verizon Center
+Sun Feb 26 2017,Boston Celtics,104,Detroit Pistons,98,20141,The Palace of Auburn Hills
+Sun Feb 26 2017,Portland Trail Blazers,106,Toronto Raptors,112,19800,Air Canada Centre
+Sun Feb 26 2017,New Orleans Pelicans,110,Oklahoma City Thunder,118,18203,Chesapeake Energy Arena
+Sun Feb 26 2017,Charlotte Hornets,121,Los Angeles Clippers,124,19060,STAPLES Center
+Mon Feb 27 2017,Milwaukee Bucks,95,Cleveland Cavaliers,102,20562,Quicken Loans Arena
+Mon Feb 27 2017,Toronto Raptors,92,New York Knicks,91,19812,Madison Square Garden (IV)
+Mon Feb 27 2017,Golden State Warriors,119,Philadelphia 76ers,108,20585,Wells Fargo Center
+Mon Feb 27 2017,Atlanta Hawks,114,Boston Celtics,98,18624,TD Garden
+Mon Feb 27 2017,Miami Heat,89,Dallas Mavericks,96,19539,American Airlines Center
+Mon Feb 27 2017,Indiana Pacers,117,Houston Rockets,108,18055,Toyota Center
+Mon Feb 27 2017,Minnesota Timberwolves,102,Sacramento Kings,88,17608,Golden 1 Center
+Tue Feb 28 2017,Golden State Warriors,108,Washington Wizards,112,20356,Verizon Center
+Tue Feb 28 2017,Portland Trail Blazers,113,Detroit Pistons,120,13502,The Palace of Auburn Hills
+Tue Feb 28 2017,Denver Nuggets,125,Chicago Bulls,107,21015,United Center
+Tue Feb 28 2017,Phoenix Suns,112,Memphis Grizzlies,130,15871,FedEx Forum
+Tue Feb 28 2017,Utah Jazz,106,Oklahoma City Thunder,109,18203,Chesapeake Energy Arena
+Tue Feb 28 2017,Charlotte Hornets,109,Los Angeles Lakers,104,18997,STAPLES Center
+Wed Mar 1 2017,New York Knicks,101,Orlando Magic,90,16005,Amway Center
+Wed Mar 1 2017,Dallas Mavericks,95,Atlanta Hawks,100,12483,Philips Arena
+Wed Mar 1 2017,Philadelphia 76ers,98,Miami Heat,125,19609,AmericanAirlines Arena
+Wed Mar 1 2017,Washington Wizards,105,Toronto Raptors,96,19800,Air Canada Centre
+Wed Mar 1 2017,Cleveland Cavaliers,99,Boston Celtics,103,18624,TD Garden
+Wed Mar 1 2017,Denver Nuggets,110,Milwaukee Bucks,98,13214,BMO Harris Bradley Center
+Wed Mar 1 2017,Detroit Pistons,86,New Orleans Pelicans,109,14406,Smoothie King Center
+Wed Mar 1 2017,Indiana Pacers,99,San Antonio Spurs,100,18418,AT&T Center
+Wed Mar 1 2017,Minnesota Timberwolves,107,Utah Jazz,80,19127,Vivint Smart Home Arena
+Wed Mar 1 2017,Houston Rockets,122,Los Angeles Clippers,103,19060,STAPLES Center
+Wed Mar 1 2017,Brooklyn Nets,109,Sacramento Kings,100,17608,Golden 1 Center
+Thu Mar 2 2017,Golden State Warriors,87,Chicago Bulls,94,22253,United Center
+Thu Mar 2 2017,Charlotte Hornets,103,Phoenix Suns,120,16572,Talking Stick Resort Arena
+Thu Mar 2 2017,Oklahoma City Thunder,109,Portland Trail Blazers,114,19875,Moda Center
+Fri Mar 3 2017,Cleveland Cavaliers,135,Atlanta Hawks,130,18877,Philips Arena
+Fri Mar 3 2017,Miami Heat,99,Orlando Magic,110,17136,Amway Center
+Fri Mar 3 2017,New York Knicks,102,Philadelphia 76ers,105,18518,Wells Fargo Center
+Fri Mar 3 2017,Toronto Raptors,114,Washington Wizards,106,20356,Verizon Center
+Fri Mar 3 2017,Los Angeles Clippers,101,Milwaukee Bucks,112,16208,BMO Harris Bradley Center
+Fri Mar 3 2017,Memphis Grizzlies,100,Dallas Mavericks,104,19480,American Airlines Center
+Fri Mar 3 2017,Oklahoma City Thunder,111,Phoenix Suns,118,18055,Talking Stick Resort Arena
+Fri Mar 3 2017,Brooklyn Nets,97,Utah Jazz,112,19911,Vivint Smart Home Arena
+Fri Mar 3 2017,San Antonio Spurs,101,New Orleans Pelicans,98,17669,Smoothie King Center
+Fri Mar 3 2017,Boston Celtics,115,Los Angeles Lakers,95,18997,STAPLES Center
+Sat Mar 4 2017,Detroit Pistons,136,Philadelphia 76ers,106,19523,Wells Fargo Center
+Sat Mar 4 2017,Cleveland Cavaliers,92,Miami Heat,120,19600,AmericanAirlines Arena
+Sat Mar 4 2017,Toronto Raptors,94,Milwaukee Bucks,101,16775,BMO Harris Bradley Center
+Sat Mar 4 2017,Los Angeles Clippers,101,Chicago Bulls,91,22807,United Center
+Sat Mar 4 2017,Charlotte Hornets,112,Denver Nuggets,102,14708,Pepsi Center
+Sat Mar 4 2017,Memphis Grizzlies,108,Houston Rockets,123,18055,Toyota Center
+Sat Mar 4 2017,Minnesota Timberwolves,90,San Antonio Spurs,97,18418,AT&T Center
+Sat Mar 4 2017,Brooklyn Nets,116,Portland Trail Blazers,130,19638,Moda Center
+Sun Mar 5 2017,Indiana Pacers,97,Atlanta Hawks,96,15366,Philips Arena
+Sun Mar 5 2017,Golden State Warriors,112,New York Knicks,105,19812,Madison Square Garden (IV)
+Sun Mar 5 2017,Boston Celtics,106,Phoenix Suns,109,16790,Talking Stick Resort Arena
+Sun Mar 5 2017,Orlando Magic,114,Washington Wizards,115,19195,Verizon Center
+Sun Mar 5 2017,Utah Jazz,110,Sacramento Kings,109,17608,Golden 1 Center
+Sun Mar 5 2017,Oklahoma City Thunder,89,Dallas Mavericks,104,20232,American Airlines Center
+Sun Mar 5 2017,New Orleans Pelicans,105,Los Angeles Lakers,97,18997,STAPLES Center
+Mon Mar 6 2017,Miami Heat,106,Cleveland Cavaliers,98,20562,Quicken Loans Arena
+Mon Mar 6 2017,New York Knicks,113,Orlando Magic,105,16046,Amway Center
+Mon Mar 6 2017,Milwaukee Bucks,112,Philadelphia 76ers,98,18351,Wells Fargo Center
+Mon Mar 6 2017,Golden State Warriors,119,Atlanta Hawks,111,18890,Philips Arena
+Mon Mar 6 2017,Chicago Bulls,95,Detroit Pistons,109,16039,The Palace of Auburn Hills
+Mon Mar 6 2017,Indiana Pacers,88,Charlotte Hornets,100,16387,Spectrum Center
+Mon Mar 6 2017,Brooklyn Nets,122,Memphis Grizzlies,109,15505,FedEx Forum
+Mon Mar 6 2017,Houston Rockets,110,San Antonio Spurs,112,18418,AT&T Center
+Mon Mar 6 2017,Sacramento Kings,96,Denver Nuggets,108,11614,Pepsi Center
+Mon Mar 6 2017,New Orleans Pelicans,83,Utah Jazz,88,19649,Vivint Smart Home Arena
+Mon Mar 6 2017,Boston Celtics,102,Los Angeles Clippers,116,19283,STAPLES Center
+Tue Mar 7 2017,Portland Trail Blazers,126,Oklahoma City Thunder,121,18203,Chesapeake Energy Arena
+Tue Mar 7 2017,Los Angeles Lakers,111,Dallas Mavericks,122,20484,American Airlines Center
+Tue Mar 7 2017,Washington Wizards,131,Phoenix Suns,127,16372,Talking Stick Resort Arena
+Wed Mar 8 2017,Chicago Bulls,91,Orlando Magic,98,16063,Amway Center
+Wed Mar 8 2017,Brooklyn Nets,105,Atlanta Hawks,110,11931,Philips Arena
+Wed Mar 8 2017,Charlotte Hornets,101,Miami Heat,108,19600,AmericanAirlines Arena
+Wed Mar 8 2017,Utah Jazz,115,Houston Rockets,108,16230,Toyota Center
+Wed Mar 8 2017,Detroit Pistons,98,Indiana Pacers,115,14353,Bankers Life Fieldhouse
+Wed Mar 8 2017,New York Knicks,93,Milwaukee Bucks,104,13767,BMO Harris Bradley Center
+Wed Mar 8 2017,Los Angeles Clippers,91,Minnesota Timberwolves,107,14933,Target Center
+Wed Mar 8 2017,Toronto Raptors,94,New Orleans Pelicans,87,14543,Smoothie King Center
+Wed Mar 8 2017,Sacramento Kings,104,San Antonio Spurs,114,18418,AT&T Center
+Wed Mar 8 2017,Washington Wizards,123,Denver Nuggets,113,12323,Pepsi Center
+Wed Mar 8 2017,Boston Celtics,99,Golden State Warriors,86,19596,Oracle Arena
+Thu Mar 9 2017,Cleveland Cavaliers,101,Detroit Pistons,106,19421,The Palace of Auburn Hills
+Thu Mar 9 2017,Los Angeles Clippers,114,Memphis Grizzlies,98,16642,FedEx Forum
+Thu Mar 9 2017,San Antonio Spurs,92,Oklahoma City Thunder,102,18203,Chesapeake Energy Arena
+Thu Mar 9 2017,Philadelphia 76ers,108,Portland Trail Blazers,114,19240,Moda Center
+Thu Mar 9 2017,Los Angeles Lakers,122,Phoenix Suns,110,17552,Talking Stick Resort Arena
+Fri Mar 10 2017,Orlando Magic,81,Charlotte Hornets,121,17444,Spectrum Center
+Fri Mar 10 2017,Toronto Raptors,99,Atlanta Hawks,105,16078,Philips Arena
+Fri Mar 10 2017,Houston Rockets,115,Chicago Bulls,94,21995,United Center
+Fri Mar 10 2017,Indiana Pacers,85,Milwaukee Bucks,99,16177,BMO Harris Bradley Center
+Fri Mar 10 2017,Golden State Warriors,102,Minnesota Timberwolves,103,20412,Target Center
+Fri Mar 10 2017,Brooklyn Nets,96,Dallas Mavericks,105,20022,American Airlines Center
+Fri Mar 10 2017,Boston Celtics,99,Denver Nuggets,119,17147,Pepsi Center
+Fri Mar 10 2017,Washington Wizards,130,Sacramento Kings,122,17608,Golden 1 Center
+Sat Mar 11 2017,Utah Jazz,104,Oklahoma City Thunder,112,18203,Chesapeake Energy Arena
+Sat Mar 11 2017,Philadelphia 76ers,100,Los Angeles Clippers,112,19060,STAPLES Center
+Sat Mar 11 2017,New York Knicks,92,Detroit Pistons,112,19607,The Palace of Auburn Hills
+Sat Mar 11 2017,New Orleans Pelicans,125,Charlotte Hornets,122,18196,Spectrum Center
+Sat Mar 11 2017,Cleveland Cavaliers,116,Orlando Magic,104,18846,Amway Center
+Sat Mar 11 2017,Toronto Raptors,89,Miami Heat,104,19745,AmericanAirlines Arena
+Sat Mar 11 2017,Minnesota Timberwolves,95,Milwaukee Bucks,102,18717,BMO Harris Bradley Center
+Sat Mar 11 2017,Golden State Warriors,85,San Antonio Spurs,107,18418,AT&T Center
+Sat Mar 11 2017,Phoenix Suns,100,Dallas Mavericks,98,20324,American Airlines Center
+Sat Mar 11 2017,Atlanta Hawks,107,Memphis Grizzlies,90,17523,FedEx Forum
+Sat Mar 11 2017,Washington Wizards,125,Portland Trail Blazers,124,19482,Moda Center
+Sat Mar 11 2017,Denver Nuggets,105,Sacramento Kings,92,17608,Golden 1 Center
+Sun Mar 12 2017,Chicago Bulls,80,Boston Celtics,100,18624,TD Garden
+Sun Mar 12 2017,New York Knicks,112,Brooklyn Nets,120,17732,Barclays Center
+Sun Mar 12 2017,Miami Heat,98,Indiana Pacers,102,17923,Bankers Life Fieldhouse
+Sun Mar 12 2017,Cleveland Cavaliers,112,Houston Rockets,117,18055,Toyota Center
+Sun Mar 12 2017,Portland Trail Blazers,110,Phoenix Suns,101,16664,Talking Stick Resort Arena
+Sun Mar 12 2017,Philadelphia 76ers,118,Los Angeles Lakers,116,18997,STAPLES Center
+Mon Mar 13 2017,Chicago Bulls,115,Charlotte Hornets,109,16489,Spectrum Center
+Mon Mar 13 2017,Dallas Mavericks,78,Toronto Raptors,100,19800,Air Canada Centre
+Mon Mar 13 2017,Milwaukee Bucks,93,Memphis Grizzlies,113,16770,FedEx Forum
+Mon Mar 13 2017,Washington Wizards,104,Minnesota Timberwolves,119,15747,Target Center
+Mon Mar 13 2017,Atlanta Hawks,99,San Antonio Spurs,107,18418,AT&T Center
+Mon Mar 13 2017,Los Angeles Clippers,108,Utah Jazz,114,19911,Vivint Smart Home Arena
+Mon Mar 13 2017,Los Angeles Lakers,101,Denver Nuggets,129,17344,Pepsi Center
+Mon Mar 13 2017,Orlando Magic,115,Sacramento Kings,120,17608,Golden 1 Center
+Tue Mar 14 2017,Detroit Pistons,96,Cleveland Cavaliers,128,20562,Quicken Loans Arena
+Tue Mar 14 2017,Oklahoma City Thunder,122,Brooklyn Nets,104,13911,Barclays Center
+Tue Mar 14 2017,Indiana Pacers,81,New York Knicks,87,18261,Madison Square Garden (IV)
+Tue Mar 14 2017,Portland Trail Blazers,77,New Orleans Pelicans,100,15530,Smoothie King Center
+Tue Mar 14 2017,Philadelphia 76ers,104,Golden State Warriors,106,19596,Oracle Arena
+Wed Mar 15 2017,Charlotte Hornets,77,Indiana Pacers,98,14169,Bankers Life Fieldhouse
+Wed Mar 15 2017,Dallas Mavericks,112,Washington Wizards,107,17844,Verizon Center
+Wed Mar 15 2017,Minnesota Timberwolves,104,Boston Celtics,117,18624,TD Garden
+Wed Mar 15 2017,Utah Jazz,97,Detroit Pistons,83,14033,The Palace of Auburn Hills
+Wed Mar 15 2017,New Orleans Pelicans,112,Miami Heat,120,19678,AmericanAirlines Arena
+Wed Mar 15 2017,Memphis Grizzlies,98,Chicago Bulls,91,21583,United Center
+Wed Mar 15 2017,Los Angeles Lakers,100,Houston Rockets,139,18055,Toyota Center
+Wed Mar 15 2017,Portland Trail Blazers,110,San Antonio Spurs,106,18418,AT&T Center
+Wed Mar 15 2017,Sacramento Kings,107,Phoenix Suns,101,17196,Talking Stick Resort Arena
+Wed Mar 15 2017,Milwaukee Bucks,97,Los Angeles Clippers,96,19060,STAPLES Center
+Thu Mar 16 2017,Utah Jazz,83,Cleveland Cavaliers,91,20562,Quicken Loans Arena
+Thu Mar 16 2017,Oklahoma City Thunder,123,Toronto Raptors,102,19800,Air Canada Centre
+Thu Mar 16 2017,Memphis Grizzlies,103,Atlanta Hawks,91,17063,Philips Arena
+Thu Mar 16 2017,Brooklyn Nets,121,New York Knicks,110,19812,Madison Square Garden (IV)
+Thu Mar 16 2017,Los Angeles Clippers,114,Denver Nuggets,129,14179,Pepsi Center
+Thu Mar 16 2017,Orlando Magic,92,Golden State Warriors,122,19596,Oracle Arena
+Fri Mar 17 2017,Dallas Mavericks,74,Philadelphia 76ers,116,17642,Wells Fargo Center
+Fri Mar 17 2017,Chicago Bulls,107,Washington Wizards,112,20356,Verizon Center
+Fri Mar 17 2017,Boston Celtics,98,Brooklyn Nets,95,17732,Barclays Center
+Fri Mar 17 2017,Toronto Raptors,87,Detroit Pistons,75,16541,The Palace of Auburn Hills
+Fri Mar 17 2017,Minnesota Timberwolves,105,Miami Heat,123,19600,AmericanAirlines Arena
+Fri Mar 17 2017,Houston Rockets,112,New Orleans Pelicans,128,17972,Smoothie King Center
+Fri Mar 17 2017,Orlando Magic,109,Phoenix Suns,103,16880,Talking Stick Resort Arena
+Fri Mar 17 2017,Milwaukee Bucks,107,Los Angeles Lakers,103,18997,STAPLES Center
+Sat Mar 18 2017,Sacramento Kings,94,Oklahoma City Thunder,110,18203,Chesapeake Energy Arena
+Sat Mar 18 2017,Portland Trail Blazers,113,Atlanta Hawks,97,16543,Philips Arena
+Sat Mar 18 2017,Washington Wizards,93,Charlotte Hornets,98,19361,Spectrum Center
+Sat Mar 18 2017,Cleveland Cavaliers,78,Los Angeles Clippers,108,19379,STAPLES Center
+Sat Mar 18 2017,Utah Jazz,86,Chicago Bulls,95,21953,United Center
+Sat Mar 18 2017,San Antonio Spurs,96,Memphis Grizzlies,104,18119,FedEx Forum
+Sat Mar 18 2017,Houston Rockets,109,Denver Nuggets,105,17512,Pepsi Center
+Sat Mar 18 2017,Milwaukee Bucks,92,Golden State Warriors,117,19596,Oracle Arena
+Sun Mar 19 2017,Dallas Mavericks,111,Brooklyn Nets,104,14045,Barclays Center
+Sun Mar 19 2017,Boston Celtics,99,Philadelphia 76ers,105,19446,Wells Fargo Center
+Sun Mar 19 2017,Phoenix Suns,95,Detroit Pistons,112,19588,The Palace of Auburn Hills
+Sun Mar 19 2017,Portland Trail Blazers,115,Miami Heat,104,19600,AmericanAirlines Arena
+Sun Mar 19 2017,Minnesota Timberwolves,109,New Orleans Pelicans,123,16111,Smoothie King Center
+Sun Mar 19 2017,Indiana Pacers,91,Toronto Raptors,116,19800,Air Canada Centre
+Sun Mar 19 2017,Sacramento Kings,102,San Antonio Spurs,118,18418,AT&T Center
+Sun Mar 19 2017,Cleveland Cavaliers,125,Los Angeles Lakers,120,18997,STAPLES Center
+Mon Mar 20 2017,Atlanta Hawks,90,Charlotte Hornets,105,14278,Spectrum Center
+Mon Mar 20 2017,Utah Jazz,100,Indiana Pacers,107,15458,Bankers Life Fieldhouse
+Mon Mar 20 2017,Philadelphia 76ers,109,Orlando Magic,112,16236,Amway Center
+Mon Mar 20 2017,Washington Wizards,102,Boston Celtics,110,18624,TD Garden
+Mon Mar 20 2017,Denver Nuggets,124,Houston Rockets,125,16080,Toyota Center
+Mon Mar 20 2017,Golden State Warriors,111,Oklahoma City Thunder,95,18203,Chesapeake Energy Arena
+Mon Mar 20 2017,New York Knicks,105,Los Angeles Clippers,114,19060,STAPLES Center
+Tue Mar 21 2017,Chicago Bulls,120,Toronto Raptors,122,19800,Air Canada Centre
+Tue Mar 21 2017,Detroit Pistons,96,Brooklyn Nets,98,14343,Barclays Center
+Tue Mar 21 2017,Phoenix Suns,97,Miami Heat,112,19600,AmericanAirlines Arena
+Tue Mar 21 2017,Memphis Grizzlies,82,New Orleans Pelicans,95,15973,Smoothie King Center
+Tue Mar 21 2017,Golden State Warriors,112,Dallas Mavericks,87,20453,American Airlines Center
+Tue Mar 21 2017,San Antonio Spurs,100,Minnesota Timberwolves,93,13742,Target Center
+Tue Mar 21 2017,Milwaukee Bucks,93,Portland Trail Blazers,90,19525,Moda Center
+Tue Mar 21 2017,Los Angeles Clippers,133,Los Angeles Lakers,109,18724,STAPLES Center
+Wed Mar 22 2017,Charlotte Hornets,109,Orlando Magic,102,16034,Amway Center
+Wed Mar 22 2017,Indiana Pacers,100,Boston Celtics,109,18624,TD Garden
+Wed Mar 22 2017,Detroit Pistons,95,Chicago Bulls,117,21503,United Center
+Wed Mar 22 2017,Philadelphia 76ers,97,Oklahoma City Thunder,122,18203,Chesapeake Energy Arena
+Wed Mar 22 2017,Atlanta Hawks,100,Washington Wizards,104,18137,Verizon Center
+Wed Mar 22 2017,Cleveland Cavaliers,113,Denver Nuggets,126,19718,Pepsi Center
+Wed Mar 22 2017,Milwaukee Bucks,116,Sacramento Kings,98,17608,Golden 1 Center
+Wed Mar 22 2017,New York Knicks,101,Utah Jazz,108,19911,Vivint Smart Home Arena
+Thu Mar 23 2017,Phoenix Suns,98,Brooklyn Nets,126,15141,Barclays Center
+Thu Mar 23 2017,Toronto Raptors,101,Miami Heat,84,19745,AmericanAirlines Arena
+Thu Mar 23 2017,Los Angeles Clippers,95,Dallas Mavericks,97,19703,American Airlines Center
+Thu Mar 23 2017,Memphis Grizzlies,90,San Antonio Spurs,97,18418,AT&T Center
+Thu Mar 23 2017,New York Knicks,95,Portland Trail Blazers,110,19020,Moda Center
+Fri Mar 24 2017,Cleveland Cavaliers,112,Charlotte Hornets,105,19511,Spectrum Center
+Fri Mar 24 2017,Denver Nuggets,125,Indiana Pacers,117,17923,Bankers Life Fieldhouse
+Fri Mar 24 2017,Detroit Pistons,87,Orlando Magic,115,18076,Amway Center
+Fri Mar 24 2017,Brooklyn Nets,108,Washington Wizards,129,19616,Verizon Center
+Fri Mar 24 2017,Phoenix Suns,120,Boston Celtics,130,18624,TD Garden
+Fri Mar 24 2017,Philadelphia 76ers,117,Chicago Bulls,107,21558,United Center
+Fri Mar 24 2017,New Orleans Pelicans,107,Houston Rockets,117,18055,Toyota Center
+Fri Mar 24 2017,Atlanta Hawks,97,Milwaukee Bucks,100,16786,BMO Harris Bradley Center
+Fri Mar 24 2017,Sacramento Kings,100,Golden State Warriors,114,19596,Oracle Arena
+Fri Mar 24 2017,Minnesota Timberwolves,119,Los Angeles Lakers,130,18997,STAPLES Center
+Sat Mar 25 2017,Utah Jazz,95,Los Angeles Clippers,108,19060,STAPLES Center
+Sat Mar 25 2017,Washington Wizards,127,Cleveland Cavaliers,115,20562,Quicken Loans Arena
+Sat Mar 25 2017,Toronto Raptors,94,Dallas Mavericks,86,19934,American Airlines Center
+Sat Mar 25 2017,New York Knicks,98,San Antonio Spurs,106,18418,AT&T Center
+Sat Mar 25 2017,Minnesota Timberwolves,100,Portland Trail Blazers,112,19580,Moda Center
+Sun Mar 26 2017,Brooklyn Nets,107,Atlanta Hawks,92,15921,Philips Arena
+Sun Mar 26 2017,Phoenix Suns,106,Charlotte Hornets,120,17292,Spectrum Center
+Sun Mar 26 2017,Oklahoma City Thunder,125,Houston Rockets,137,18055,Toyota Center
+Sun Mar 26 2017,Sacramento Kings,98,Los Angeles Clippers,97,19060,STAPLES Center
+Sun Mar 26 2017,Chicago Bulls,109,Milwaukee Bucks,94,17669,BMO Harris Bradley Center
+Sun Mar 26 2017,Miami Heat,108,Boston Celtics,112,18624,TD Garden
+Sun Mar 26 2017,Philadelphia 76ers,94,Indiana Pacers,107,16467,Bankers Life Fieldhouse
+Sun Mar 26 2017,New Orleans Pelicans,115,Denver Nuggets,90,19850,Pepsi Center
+Sun Mar 26 2017,Memphis Grizzlies,94,Golden State Warriors,106,19596,Oracle Arena
+Sun Mar 26 2017,Portland Trail Blazers,97,Los Angeles Lakers,81,18698,STAPLES Center
+Mon Mar 27 2017,Detroit Pistons,95,New York Knicks,109,19812,Madison Square Garden (IV)
+Mon Mar 27 2017,Orlando Magic,112,Toronto Raptors,131,19800,Air Canada Centre
+Mon Mar 27 2017,Cleveland Cavaliers,74,San Antonio Spurs,103,18418,AT&T Center
+Mon Mar 27 2017,Oklahoma City Thunder,92,Dallas Mavericks,91,19970,American Airlines Center
+Mon Mar 27 2017,Memphis Grizzlies,90,Sacramento Kings,91,17608,Golden 1 Center
+Mon Mar 27 2017,New Orleans Pelicans,100,Utah Jazz,108,18924,Vivint Smart Home Arena
+Tue Mar 28 2017,Milwaukee Bucks,118,Charlotte Hornets,108,16505,Spectrum Center
+Tue Mar 28 2017,Minnesota Timberwolves,115,Indiana Pacers,114,17534,Bankers Life Fieldhouse
+Tue Mar 28 2017,Phoenix Suns,91,Atlanta Hawks,95,13412,Philips Arena
+Tue Mar 28 2017,Philadelphia 76ers,106,Brooklyn Nets,101,15471,Barclays Center
+Tue Mar 28 2017,Miami Heat,97,Detroit Pistons,96,17160,The Palace of Auburn Hills
+Tue Mar 28 2017,Golden State Warriors,113,Houston Rockets,106,18055,Toyota Center
+Tue Mar 28 2017,Denver Nuggets,113,Portland Trail Blazers,122,20003,Moda Center
+Tue Mar 28 2017,Washington Wizards,119,Los Angeles Lakers,108,18997,STAPLES Center
+Wed Mar 29 2017,Oklahoma City Thunder,114,Orlando Magic,106,18408,Amway Center
+Wed Mar 29 2017,Atlanta Hawks,99,Philadelphia 76ers,92,15212,Wells Fargo Center
+Wed Mar 29 2017,Milwaukee Bucks,103,Boston Celtics,100,18624,TD Garden
+Wed Mar 29 2017,Miami Heat,105,New York Knicks,88,19812,Madison Square Garden (IV)
+Wed Mar 29 2017,Charlotte Hornets,110,Toronto Raptors,106,19800,Air Canada Centre
+Wed Mar 29 2017,Indiana Pacers,97,Memphis Grizzlies,110,16367,FedEx Forum
+Wed Mar 29 2017,Dallas Mavericks,118,New Orleans Pelicans,121,16000,Smoothie King Center
+Wed Mar 29 2017,Golden State Warriors,110,San Antonio Spurs,98,18418,AT&T Center
+Wed Mar 29 2017,Washington Wizards,124,Los Angeles Clippers,133,19060,STAPLES Center
+Wed Mar 29 2017,Utah Jazz,112,Sacramento Kings,82,17608,Golden 1 Center
+Thu Mar 30 2017,Brooklyn Nets,89,Detroit Pistons,90,15804,The Palace of Auburn Hills
+Thu Mar 30 2017,Cleveland Cavaliers,93,Chicago Bulls,99,22282,United Center
+Thu Mar 30 2017,Los Angeles Lakers,104,Minnesota Timberwolves,119,18179,Target Center
+Thu Mar 30 2017,Los Angeles Clippers,124,Phoenix Suns,118,16736,Talking Stick Resort Arena
+Thu Mar 30 2017,Houston Rockets,107,Portland Trail Blazers,117,20049,Moda Center
+Fri Mar 31 2017,Denver Nuggets,114,Charlotte Hornets,122,18353,Spectrum Center
+Fri Mar 31 2017,Indiana Pacers,100,Toronto Raptors,111,19800,Air Canada Centre
+Fri Mar 31 2017,Orlando Magic,116,Boston Celtics,117,18624,TD Garden
+Fri Mar 31 2017,Philadelphia 76ers,105,Cleveland Cavaliers,122,20562,Quicken Loans Arena
+Fri Mar 31 2017,Dallas Mavericks,90,Memphis Grizzlies,99,17317,FedEx Forum
+Fri Mar 31 2017,New York Knicks,98,Miami Heat,94,19600,AmericanAirlines Arena
+Fri Mar 31 2017,Detroit Pistons,105,Milwaukee Bucks,108,18717,BMO Harris Bradley Center
+Fri Mar 31 2017,Sacramento Kings,89,New Orleans Pelicans,117,17304,Smoothie King Center
+Fri Mar 31 2017,San Antonio Spurs,100,Oklahoma City Thunder,95,18203,Chesapeake Energy Arena
+Fri Mar 31 2017,Washington Wizards,88,Utah Jazz,95,19911,Vivint Smart Home Arena
+Fri Mar 31 2017,Houston Rockets,98,Golden State Warriors,107,19596,Oracle Arena
+Sat Apr 1 2017,Los Angeles Lakers,104,Los Angeles Clippers,115,19060,STAPLES Center
+Sat Apr 1 2017,Atlanta Hawks,104,Chicago Bulls,106,22019,United Center
+Sat Apr 1 2017,Orlando Magic,111,Brooklyn Nets,121,15976,Barclays Center
+Sat Apr 1 2017,Sacramento Kings,123,Minnesota Timberwolves,117,18960,Target Center
+Sat Apr 1 2017,Phoenix Suns,117,Portland Trail Blazers,130,18915,Moda Center
+Sun Apr 2 2017,Boston Celtics,110,New York Knicks,94,19812,Madison Square Garden (IV)
+Sun Apr 2 2017,Charlotte Hornets,113,Oklahoma City Thunder,101,18203,Chesapeake Energy Arena
+Sun Apr 2 2017,Memphis Grizzlies,103,Los Angeles Lakers,108,18997,STAPLES Center
+Sun Apr 2 2017,Dallas Mavericks,109,Milwaukee Bucks,105,18717,BMO Harris Bradley Center
+Sun Apr 2 2017,Utah Jazz,103,San Antonio Spurs,109,18418,AT&T Center
+Sun Apr 2 2017,Atlanta Hawks,82,Brooklyn Nets,91,15040,Barclays Center
+Sun Apr 2 2017,Indiana Pacers,130,Cleveland Cavaliers,135,20562,Quicken Loans Arena
+Sun Apr 2 2017,Denver Nuggets,116,Miami Heat,113,19600,AmericanAirlines Arena
+Sun Apr 2 2017,Chicago Bulls,117,New Orleans Pelicans,110,18306,Smoothie King Center
+Sun Apr 2 2017,Philadelphia 76ers,105,Toronto Raptors,113,19800,Air Canada Centre
+Sun Apr 2 2017,Washington Wizards,115,Golden State Warriors,139,19596,Oracle Arena
+Sun Apr 2 2017,Houston Rockets,123,Phoenix Suns,116,17378,Talking Stick Resort Arena
+Mon Apr 3 2017,Portland Trail Blazers,109,Minnesota Timberwolves,110,14677,Target Center
+Tue Apr 4 2017,Orlando Magic,102,Cleveland Cavaliers,122,20562,Quicken Loans Arena
+Tue Apr 4 2017,Toronto Raptors,90,Indiana Pacers,108,16524,Bankers Life Fieldhouse
+Tue Apr 4 2017,Brooklyn Nets,141,Philadelphia 76ers,118,14580,Wells Fargo Center
+Tue Apr 4 2017,Charlotte Hornets,111,Washington Wizards,118,18614,Verizon Center
+Tue Apr 4 2017,Denver Nuggets,134,New Orleans Pelicans,131,16050,Smoothie King Center
+Tue Apr 4 2017,Chicago Bulls,91,New York Knicks,100,19812,Madison Square Garden (IV)
+Tue Apr 4 2017,Milwaukee Bucks,79,Oklahoma City Thunder,110,18203,Chesapeake Energy Arena
+Tue Apr 4 2017,Memphis Grizzlies,89,San Antonio Spurs,95,18418,AT&T Center
+Tue Apr 4 2017,Portland Trail Blazers,87,Utah Jazz,106,19911,Vivint Smart Home Arena
+Tue Apr 4 2017,Minnesota Timberwolves,107,Golden State Warriors,121,19596,Oracle Arena
+Tue Apr 4 2017,Dallas Mavericks,87,Sacramento Kings,98,17608,Golden 1 Center
+Wed Apr 5 2017,Miami Heat,112,Charlotte Hornets,99,17758,Spectrum Center
+Wed Apr 5 2017,Toronto Raptors,105,Detroit Pistons,102,17578,The Palace of Auburn Hills
+Wed Apr 5 2017,Cleveland Cavaliers,114,Boston Celtics,91,18624,TD Garden
+Wed Apr 5 2017,Denver Nuggets,104,Houston Rockets,110,18055,Toyota Center
+Wed Apr 5 2017,Oklahoma City Thunder,103,Memphis Grizzlies,100,17298,FedEx Forum
+Wed Apr 5 2017,Los Angeles Lakers,102,San Antonio Spurs,95,18418,AT&T Center
+Wed Apr 5 2017,Golden State Warriors,120,Phoenix Suns,111,18055,Talking Stick Resort Arena
+Wed Apr 5 2017,Dallas Mavericks,101,Los Angeles Clippers,112,19060,STAPLES Center
+Thu Apr 6 2017,Milwaukee Bucks,89,Indiana Pacers,104,17010,Bankers Life Fieldhouse
+Thu Apr 6 2017,Brooklyn Nets,107,Orlando Magic,115,18095,Amway Center
+Thu Apr 6 2017,Chicago Bulls,102,Philadelphia 76ers,90,15177,Wells Fargo Center
+Thu Apr 6 2017,Washington Wizards,106,New York Knicks,103,19812,Madison Square Garden (IV)
+Thu Apr 6 2017,Boston Celtics,116,Atlanta Hawks,123,18688,Philips Arena
+Thu Apr 6 2017,Minnesota Timberwolves,98,Portland Trail Blazers,105,19393,Moda Center
+Fri Apr 7 2017,Atlanta Hawks,114,Cleveland Cavaliers,100,20562,Quicken Loans Arena
+Fri Apr 7 2017,Miami Heat,94,Toronto Raptors,96,19800,Air Canada Centre
+Fri Apr 7 2017,Detroit Pistons,114,Houston Rockets,109,18055,Toyota Center
+Fri Apr 7 2017,New York Knicks,88,Memphis Grizzlies,101,17631,FedEx Forum
+Fri Apr 7 2017,San Antonio Spurs,102,Dallas Mavericks,89,20133,American Airlines Center
+Fri Apr 7 2017,New Orleans Pelicans,106,Denver Nuggets,122,16348,Pepsi Center
+Fri Apr 7 2017,Minnesota Timberwolves,113,Utah Jazz,120,19911,Vivint Smart Home Arena
+Fri Apr 7 2017,Oklahoma City Thunder,99,Phoenix Suns,120,18055,Talking Stick Resort Arena
+Fri Apr 7 2017,Sacramento Kings,94,Los Angeles Lakers,98,18997,STAPLES Center
+Sat Apr 8 2017,Chicago Bulls,106,Brooklyn Nets,107,17732,Barclays Center
+Sat Apr 8 2017,Boston Celtics,121,Charlotte Hornets,114,19407,Spectrum Center
+Sat Apr 8 2017,Indiana Pacers,127,Orlando Magic,112,18846,Amway Center
+Sat Apr 8 2017,Milwaukee Bucks,90,Philadelphia 76ers,82,16301,Wells Fargo Center
+Sat Apr 8 2017,Miami Heat,106,Washington Wizards,103,20365,Verizon Center
+Sat Apr 8 2017,Los Angeles Clippers,98,San Antonio Spurs,87,18420,AT&T Center
+Sat Apr 8 2017,Utah Jazz,86,Portland Trail Blazers,101,19865,Moda Center
+Sat Apr 8 2017,New Orleans Pelicans,101,Golden State Warriors,123,19596,Oracle Arena
+Sun Apr 9 2017,Toronto Raptors,110,New York Knicks,97,19812,Madison Square Garden (IV)
+Sun Apr 9 2017,Cleveland Cavaliers,125,Atlanta Hawks,126,18835,Philips Arena
+Sun Apr 9 2017,Oklahoma City Thunder,106,Denver Nuggets,105,19718,Pepsi Center
+Sun Apr 9 2017,Detroit Pistons,103,Memphis Grizzlies,90,16521,FedEx Forum
+Sun Apr 9 2017,Dallas Mavericks,111,Phoenix Suns,124,18055,Talking Stick Resort Arena
+Sun Apr 9 2017,Houston Rockets,135,Sacramento Kings,128,17608,Golden 1 Center
+Sun Apr 9 2017,Minnesota Timberwolves,109,Los Angeles Lakers,110,18997,STAPLES Center
+Mon Apr 10 2017,Indiana Pacers,120,Philadelphia 76ers,111,14622,Wells Fargo Center
+Mon Apr 10 2017,Brooklyn Nets,105,Boston Celtics,114,18624,TD Garden
+Mon Apr 10 2017,Cleveland Cavaliers,121,Miami Heat,124,19673,AmericanAirlines Arena
+Mon Apr 10 2017,Orlando Magic,75,Chicago Bulls,122,21545,United Center
+Mon Apr 10 2017,Washington Wizards,105,Detroit Pistons,101,21012,The Palace of Auburn Hills
+Mon Apr 10 2017,Charlotte Hornets,79,Milwaukee Bucks,89,18717,BMO Harris Bradley Center
+Mon Apr 10 2017,San Antonio Spurs,98,Portland Trail Blazers,99,19393,Moda Center
+Mon Apr 10 2017,Utah Jazz,105,Golden State Warriors,99,19596,Oracle Arena
+Mon Apr 10 2017,Houston Rockets,96,Los Angeles Clippers,125,19163,STAPLES Center
+Tue Apr 11 2017,Charlotte Hornets,76,Atlanta Hawks,103,14205,Philips Arena
+Tue Apr 11 2017,Oklahoma City Thunder,100,Minnesota Timberwolves,98,19356,Target Center
+Tue Apr 11 2017,Denver Nuggets,109,Dallas Mavericks,91,20333,American Airlines Center
+Tue Apr 11 2017,New Orleans Pelicans,96,Los Angeles Lakers,108,18997,STAPLES Center
+Tue Apr 11 2017,Phoenix Suns,104,Sacramento Kings,129,17608,Golden 1 Center
+Wed Apr 12 2017,Milwaukee Bucks,94,Boston Celtics,112,18624,TD Garden
+Wed Apr 12 2017,Brooklyn Nets,73,Chicago Bulls,112,21648,United Center
+Wed Apr 12 2017,Toronto Raptors,98,Cleveland Cavaliers,83,20562,Quicken Loans Arena
+Wed Apr 12 2017,Minnesota Timberwolves,118,Houston Rockets,123,18055,Toyota Center
+Wed Apr 12 2017,Atlanta Hawks,86,Indiana Pacers,104,17923,Bankers Life Fieldhouse
+Wed Apr 12 2017,Dallas Mavericks,100,Memphis Grizzlies,93,16274,FedEx Forum
+Wed Apr 12 2017,Washington Wizards,102,Miami Heat,110,19963,AmericanAirlines Arena
+Wed Apr 12 2017,Philadelphia 76ers,113,New York Knicks,114,19812,Madison Square Garden (IV)
+Wed Apr 12 2017,Denver Nuggets,111,Oklahoma City Thunder,105,18203,Chesapeake Energy Arena
+Wed Apr 12 2017,Detroit Pistons,109,Orlando Magic,113,19458,Amway Center
+Wed Apr 12 2017,San Antonio Spurs,97,Utah Jazz,101,19911,Vivint Smart Home Arena
+Wed Apr 12 2017,Los Angeles Lakers,94,Golden State Warriors,109,19596,Oracle Arena
+Wed Apr 12 2017,Sacramento Kings,95,Los Angeles Clippers,115,19060,STAPLES Center
+Wed Apr 12 2017,New Orleans Pelicans,103,Portland Trail Blazers,100,19521,Moda Center
+Sat Apr 15 2017,Indiana Pacers,108,Cleveland Cavaliers,109,20562,Quicken Loans Arena
+Sat Apr 15 2017,Milwaukee Bucks,97,Toronto Raptors,83,20133,Air Canada Centre
+Sat Apr 15 2017,Memphis Grizzlies,82,San Antonio Spurs,111,18418,AT&T Center
+Sat Apr 15 2017,Utah Jazz,97,Los Angeles Clippers,95,19060,STAPLES Center
+Sun Apr 16 2017,Atlanta Hawks,107,Washington Wizards,114,20356,Verizon Center
+Sun Apr 16 2017,Portland Trail Blazers,109,Golden State Warriors,121,19596,Oracle Arena
+Sun Apr 16 2017,Chicago Bulls,106,Boston Celtics,102,18624,TD Garden
+Sun Apr 16 2017,Oklahoma City Thunder,87,Houston Rockets,118,18055,Toyota Center
+Mon Apr 17 2017,Indiana Pacers,111,Cleveland Cavaliers,117,20562,Quicken Loans Arena
+Mon Apr 17 2017,Memphis Grizzlies,82,San Antonio Spurs,96,18418,AT&T Center
+Tue Apr 18 2017,Milwaukee Bucks,100,Toronto Raptors,106,20077,Air Canada Centre
+Tue Apr 18 2017,Chicago Bulls,111,Boston Celtics,97,18624,TD Garden
+Tue Apr 18 2017,Utah Jazz,91,Los Angeles Clippers,99,19060,STAPLES Center
+Wed Apr 19 2017,Atlanta Hawks,101,Washington Wizards,109,20356,Verizon Center
+Wed Apr 19 2017,Oklahoma City Thunder,111,Houston Rockets,115,18055,Toyota Center
+Wed Apr 19 2017,Portland Trail Blazers,81,Golden State Warriors,110,19596,Oracle Arena
+Thu Apr 20 2017,Cleveland Cavaliers,119,Indiana Pacers,114,17923,Bankers Life Fieldhouse
+Thu Apr 20 2017,Toronto Raptors,77,Milwaukee Bucks,104,18717,BMO Harris Bradley Center
+Thu Apr 20 2017,San Antonio Spurs,94,Memphis Grizzlies,105,18119,FedEx Forum
+Fri Apr 21 2017,Boston Celtics,104,Chicago Bulls,87,21293,United Center
+Fri Apr 21 2017,Houston Rockets,113,Oklahoma City Thunder,115,18203,Chesapeake Energy Arena
+Fri Apr 21 2017,Los Angeles Clippers,111,Utah Jazz,106,19911,Vivint Smart Home Arena
+Sat Apr 22 2017,Toronto Raptors,87,Milwaukee Bucks,76,18717,BMO Harris Bradley Center
+Sat Apr 22 2017,Washington Wizards,98,Atlanta Hawks,116,18866,Philips Arena
+Sat Apr 22 2017,San Antonio Spurs,108,Memphis Grizzlies,110,18119,FedEx Forum
+Sat Apr 22 2017,Golden State Warriors,119,Portland Trail Blazers,113,20177,Moda Center
+Sun Apr 23 2017,Cleveland Cavaliers,106,Indiana Pacers,102,17923,Bankers Life Fieldhouse
+Sun Apr 23 2017,Houston Rockets,113,Oklahoma City Thunder,109,18203,Chesapeake Energy Arena
+Sun Apr 23 2017,Boston Celtics,104,Chicago Bulls,95,21863,United Center
+Sun Apr 23 2017,Los Angeles Clippers,98,Utah Jazz,105,19911,Vivint Smart Home Arena
+Mon Apr 24 2017,Milwaukee Bucks,93,Toronto Raptors,118,20251,Air Canada Centre
+Mon Apr 24 2017,Washington Wizards,101,Atlanta Hawks,111,18676,Philips Arena
+Mon Apr 24 2017,Golden State Warriors,128,Portland Trail Blazers,103,19902,Moda Center
+Tue Apr 25 2017,Oklahoma City Thunder,99,Houston Rockets,105,18055,Toyota Center
+Tue Apr 25 2017,Memphis Grizzlies,103,San Antonio Spurs,116,18418,AT&T Center
+Tue Apr 25 2017,Utah Jazz,96,Los Angeles Clippers,92,19171,STAPLES Center
+Wed Apr 26 2017,Atlanta Hawks,99,Washington Wizards,103,20356,Verizon Center
+Wed Apr 26 2017,Chicago Bulls,97,Boston Celtics,108,18624,TD Garden
+Thu Apr 27 2017,Toronto Raptors,92,Milwaukee Bucks,89,18717,BMO Harris Bradley Center
+Thu Apr 27 2017,San Antonio Spurs,103,Memphis Grizzlies,96,18119,FedEx Forum
+Fri Apr 28 2017,Washington Wizards,115,Atlanta Hawks,99,18849,Philips Arena
+Fri Apr 28 2017,Boston Celtics,105,Chicago Bulls,83,21682,United Center
+Fri Apr 28 2017,Los Angeles Clippers,98,Utah Jazz,93,19911,Vivint Smart Home Arena
+Sun Apr 30 2017,Washington Wizards,111,Boston Celtics,123,18624,TD Garden
+Sun Apr 30 2017,Utah Jazz,104,Los Angeles Clippers,91,19060,STAPLES Center
+Mon May 1 2017,Toronto Raptors,105,Cleveland Cavaliers,116,20562,Quicken Loans Arena
+Mon May 1 2017,Houston Rockets,126,San Antonio Spurs,99,18418,AT&T Center
+Tue May 2 2017,Washington Wizards,119,Boston Celtics,129,18624,TD Garden
+Tue May 2 2017,Utah Jazz,94,Golden State Warriors,106,19596,Oracle Arena
+Wed May 3 2017,Toronto Raptors,103,Cleveland Cavaliers,125,20562,Quicken Loans Arena
+Wed May 3 2017,Houston Rockets,96,San Antonio Spurs,121,18418,AT&T Center
+Thu May 4 2017,Boston Celtics,89,Washington Wizards,116,20356,Verizon Center
+Thu May 4 2017,Utah Jazz,104,Golden State Warriors,115,19596,Oracle Arena
+Fri May 5 2017,Cleveland Cavaliers,115,Toronto Raptors,94,20384,Air Canada Centre
+Fri May 5 2017,San Antonio Spurs,103,Houston Rockets,92,18187,Toyota Center
+Sat May 6 2017,Golden State Warriors,102,Utah Jazz,91,19911,Vivint Smart Home Arena
+Sun May 7 2017,Cleveland Cavaliers,109,Toronto Raptors,102,20307,Air Canada Centre
+Sun May 7 2017,Boston Celtics,102,Washington Wizards,121,20356,Verizon Center
+Sun May 7 2017,San Antonio Spurs,104,Houston Rockets,125,18055,Toyota Center
+Mon May 8 2017,Golden State Warriors,121,Utah Jazz,95,19911,Vivint Smart Home Arena
+Tue May 9 2017,Houston Rockets,107,San Antonio Spurs,110,18418,AT&T Center
+Wed May 10 2017,Washington Wizards,101,Boston Celtics,123,18624,TD Garden
+Thu May 11 2017,San Antonio Spurs,114,Houston Rockets,75,18055,Toyota Center
+Fri May 12 2017,Boston Celtics,91,Washington Wizards,92,20356,Verizon Center
+Sun May 14 2017,San Antonio Spurs,111,Golden State Warriors,113,19596,Oracle Arena
+Mon May 15 2017,Washington Wizards,105,Boston Celtics,115,18624,TD Garden
+Tue May 16 2017,San Antonio Spurs,100,Golden State Warriors,136,19596,Oracle Arena
+Wed May 17 2017,Cleveland Cavaliers,117,Boston Celtics,104,18624,TD Garden
+Fri May 19 2017,Cleveland Cavaliers,130,Boston Celtics,86,18624,TD Garden
+Sat May 20 2017,Golden State Warriors,120,San Antonio Spurs,108,18792,AT&T Center
+Sun May 21 2017,Boston Celtics,111,Cleveland Cavaliers,108,20562,Quicken Loans Arena
+Mon May 22 2017,Golden State Warriors,129,San Antonio Spurs,115,18466,AT&T Center
+Tue May 23 2017,Boston Celtics,99,Cleveland Cavaliers,112,20562,Quicken Loans Arena
+Thu May 25 2017,Cleveland Cavaliers,135,Boston Celtics,102,18624,TD Garden
+Thu Jun 1 2017,Cleveland Cavaliers,91,Golden State Warriors,113,19596,Oracle Arena
+Sun Jun 4 2017,Cleveland Cavaliers,113,Golden State Warriors,132,19596,Oracle Arena
+Wed Jun 7 2017,Golden State Warriors,118,Cleveland Cavaliers,113,20562,Quicken Loans Arena
+Fri Jun 9 2017,Golden State Warriors,116,Cleveland Cavaliers,137,20562,Quicken Loans Arena
+Mon Jun 12 2017,Cleveland Cavaliers,120,Golden State Warriors,129,19596,Oracle Arena
